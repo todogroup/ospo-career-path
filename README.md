@@ -1,6 +1,6 @@
 # OSPO 101 Training Modules
 
-* [Open Source Introduction](module1/README.md]
+* [Open Source Introduction](module1/README.md)
   * Introducing Open Source
   * A Short History of Open Source Software
   * Reasons to Use Open Source
