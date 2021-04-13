@@ -26,25 +26,25 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Software_license):
 
 Let's break down this definition and explore it a bit:
 
-* **Computer Software**
+**Computer Software**
 
 Computer Software refers to a program or firmware written by an author. The author of the software can be one or many people, and possibly doing the work on behalf of a company. The program is runnable on a particular computer through a machine-readable format that is achieved through conversion of ‘source code’ to what is known as ‘binary format.’
 
-* **Source Code**											
+**Source Code**											
 
 Source Code refers to the human-readable set of instructions used to represent an algorithm or idea for a computer to execute. Many computer languages can be used to write source code, which will get converted to machine-readable binary format through the process of compilation or real-time interpretation. Having the source code allows you to study and efficiently modify the software.
 
-* **License**
+**License**
 
 License is a **legal** document that records and formally expresses a set of legally enforceable acts, processes, or contractual duties, obligations, or rights related to the software and/or source code.
 
-* **Study, Change and Distribute** 
+**Study, Change and Distribute** 
 
 A fundamental component of open source software is the freedom granted by various open source licenses allowing individuals to study the software, change it for their own purposes, and then redistribute their changes to anyone else for any purpose. The requirements placed on the changed version vary depending on the type of open source license used.  More details will be provided on this in later modules in this course series.
 
-* **Collaborative Public Manner**
+**Collaborative Public Manner**
 
-**Collaborative Public Manner** is important here because the freedoms provided by the license allow for large and diverse communities to form around popular open source software, helping drive innovation and allowing companies to both contribute to and reap the benefits of these software projects. Linux is a key example of one such community, but there are many others like the Apache Web Server, Kubernetes and OpenStack. 
+Collaborative Public Manner is important here because the freedoms provided by the license allow for large and diverse communities to form around popular open source software, helping drive innovation and allowing companies to both contribute to and reap the benefits of these software projects. Linux is a key example of one such community, but there are many others like the Apache Web Server, Kubernetes and OpenStack. 
 
 ### What is Closed Source Software?
 
@@ -54,15 +54,15 @@ Software that is not open source software is closed source software. Here’s an
 
 As before, let’s unpack this definition a bit and explore some key elements:
 
-* **Closed Source**
+**Closed Source**
 
 In contrast to open source, closed source software’s human-readable instructions are not made available by the author or authors of the software.  What is delivered and installed on a computer is the machine-readable format only.  Popular programs like Microsoft Office, for example, are delivered this way.
 
-* **Non-free**
+**Non-free**
 
-*Non-free *here refers to the fact that the author(s) distribute it under a license that is not open source software, that forbids studying, modifying or redistributing the program to anyone. There may or may not be a fee for its use.
+Non-free here refers to the fact that the author(s) distribute it under a license that is not open source software, that forbids studying, modifying or redistributing the program to anyone. There may or may not be a fee for its use.
 
-* **Intellectual Rights**
+**Intellectual Rights**
 
 The author(s) retain access not only to the source code, but also to the ideas and/or algorithms used to design the program.
 
@@ -72,27 +72,33 @@ The other main distinction here is that closed source software is designed and d
 
 There are various definitions available for what an ‘open standard’ is, and we can coalesce pieces of them here:
 
-**Open Standards **are publicly available and royalty-free, while 'standard' means a technology approved by formalized committees that are open to participation by all interested parties and operate on a consensus basis. An open standard is publicly available, and developed, approved and maintained via a collaborative and consensus driven process.
+**Open Standards** are publicly available and royalty-free, while 'standard' means a technology approved by formalized committees that are open to participation by all interested parties and operate on a consensus basis. An open standard is publicly available, and developed, approved and maintained via a collaborative and consensus driven process.
 
-Additionally, **Open Standards **should not prohibit conforming implementations in open source software.
+Additionally, **Open Standards** should not prohibit conforming implementations in open source software.
 
 Let’s go ahead and dive a bit deeper here as well:
 
-* "Publicly available"
+**Publicly available**
 
 The standard is available to the public at no cost.
 
-* "Royalty-free"												*This is an important distinction between open and non-open standards. This is the ability for anyone to utilize the standard to build a solution without having to obtain a license from an entity (or pay an entity) is paramount to wider adoption.
+**Royalty-free**											
 
-* "Collaborative and Consensus Driven Process"							*This should now be familiar to you from the previous definitions of open source, and it is also critical here as it allows for both a wider set of perspectives and also the best chance at broad adoption by a variety of companies and individuals. It also sometimes makes defining standards a lengthy process.
+This is an important distinction between open and non-open standards. This is the ability for anyone to utilize the standard to build a solution without having to obtain a license from an entity (or pay an entity) is paramount to wider adoption.
 
-* "Conforming Implementations"										*This is a specific definition set forth by the Open Source Initiative (OSI), an industry consortium that helps maintain both approved open source licenses as well as the formal definition of open source. Their Open Standards Requirement (OSR) adds in this definition to further clarify that there should be nothing in the standard’s definition that would preclude someone building a piece of open source software that conforms to the standard itself.  Abiding by this gives those who use the standard confidence that they will have both open source and closed source options to choose from when picking an implementation.
+**Collaborative and Consensus Driven Process**
 
-There are many standards that we rely on every day, including **TCP/IP **(the underlying standard for communications on the Internet), **HTTP **(the protocol behind the World Wide Web), **HTML **(the language used by web page authors to format content), **GSM **(the standard for much of the world’s cellular phone communications), **ODF **(the Open Document Format used to exchange documents between various word processors), and **PDF **(the Portable Document Format used to produce print-ready documents).
+This should now be familiar to you from the previous definitions of open source, and it is also critical here as it allows for both a wider set of perspectives and also the best chance at broad adoption by a variety of companies and individuals. It also sometimes makes defining standards a lengthy process.
+
+**Conforming Implementations**										
+
+This is a specific definition set forth by the Open Source Initiative (OSI), an industry consortium that helps maintain both approved open source licenses as well as the formal definition of open source. Their Open Standards Requirement (OSR) adds in this definition to further clarify that there should be nothing in the standard’s definition that would preclude someone building a piece of open source software that conforms to the standard itself.  Abiding by this gives those who use the standard confidence that they will have both open source and closed source options to choose from when picking an implementation.
+
+There are many standards that we rely on every day, including **TCP/IP** (the underlying standard for communications on the Internet), **HTTP** (the protocol behind the World Wide Web), **HTML** (the language used by web page authors to format content), **GSM** (the standard for much of the world’s cellular phone communications), **ODF** (the Open Document Format used to exchange documents between various word processors), and **PDF** (the Portable Document Format used to produce print-ready documents).
 
 In many of those cases, there are open source implementations of these standards to allow many individuals and organizations to participate in helping build and advance these technologies.
 
-Mixing and Matching  
+**Mixing and Matching**
 
 In today’s technology landscape, there is rarely a case where only one of these three elements (open source, open standards, closed source software) is used in isolation.  
 
