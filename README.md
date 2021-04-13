@@ -5,9 +5,9 @@ https://training.linuxfoundation.org/training/open-source-management-and-strateg
 ## Course Outline
 
 * [Open Source Introduction](module1/README.md)
-  * Introducing Open Source
-  * A Short History of Open Source Software
-  * Reasons to Use Open Source
+  * [Introducing Open Source](module1/README.md#section-introducing-open-source)
+  * [A Short History of Open Source Software](module1/README.md#section-a-short-history-of-open-source-software)
+  * [Reasons to Use Open Source](module1/README.md#section-reasons-to-use-open-source)
   
 * Open Source Buiness Strategy
   * Introducing Open Source Business Models
@@ -40,3 +40,7 @@ https://training.linuxfoundation.org/training/open-source-management-and-strateg
   * Open Source Project Creation Overview
   * New Project Preparations
   * Successful Project Launch & Sustainment
+
+## License
+
+All documentation is offered under the Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
