@@ -1,5 +1,9 @@
 # OSPO 101 Training Modules
 
+https://training.linuxfoundation.org/training/open-source-management-and-strategy/
+
+## Course Outline
+
 * [Open Source Introduction](module1/README.md)
   * Introducing Open Source
   * A Short History of Open Source Software
