@@ -9,11 +9,11 @@ https://training.linuxfoundation.org/training/open-source-management-and-strateg
   * [A Short History of Open Source Software](module1/README.md#section-a-short-history-of-open-source-software)
   * [Reasons to Use Open Source](module1/README.md#section-reasons-to-use-open-source)
   
-* Open Source Buiness Strategy
-  * Introducing Open Source Business Models
-  * Developing an Open Source Strategy
-  * Developing Open Source Policies
-  * Introducing the Open Source Program Office (OSPO)
+* [Open Source Business Strategy](module2/README.md)
+  * [Introducing Open Source Business Models](module2/README.md#section-introducing-open-source-business-models)
+  * [Developing an Open Source Strategy](module2/README.md#section-developing-an-open-source-strategy)
+  * [Developing Open Source Policies](module2/README.md#section-developing-open-source-policies)
+  * [Introducing the Open Source Program Office (OSPO)](module2/README.md#section-introducing-the-open-source-program-office)
 
 * Effective Open Source Program (OSPO) Management
   * Open Source Program Offices & Your Organization
