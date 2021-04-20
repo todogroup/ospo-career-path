@@ -36,10 +36,10 @@ https://training.linuxfoundation.org/training/open-source-management-and-strateg
   * Effective Upstream Contribution Strategies
   * Upstream Development Practices
 
-* Creating Open Source Projects
-  * Open Source Project Creation Overview
-  * New Project Preparations
-  * Successful Project Launch & Sustainment
+* [Creating Open Source Projects](module7/README.md)
+  * [Open Source Project Creation Overview](module7/README.md#open-source-project-creation-overview)
+  * [New Project Preparations](module7/README.md#section-new-project-preparations)
+  * [Successful Project Launch & Sustainment](module7/README.md##section-successful-project-launch-and-sustainment)
 
 ## License
 
