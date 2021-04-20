@@ -15,10 +15,10 @@ https://training.linuxfoundation.org/training/open-source-management-and-strateg
   * [Developing Open Source Policies](module2/README.md#section-developing-open-source-policies)
   * [Introducing the Open Source Program Office (OSPO)](module2/README.md#section-introducing-the-open-source-program-office)
 
-* Effective Open Source Program (OSPO) Management
-  * Open Source Program Offices & Your Organization
-  * Building an Effective Open Source Program Office
-  * Additional Information & Case Studies
+* [Effective Open Source Program (OSPO) Management])(module3/README.md)
+  * [Open Source Program Offices & Your Organization](module3/README.md#open-source-program-offices-ospo-and-your-organization)
+  * [Building an Effective Open Source Program Office](module3/README.md#building-an-effective-open-source-program-office)
+  * [Additional Information & Case Studies](module3/README.md#additional-resources)
 
 * Open Source Development Practices
   * Effective Open Source Development & Participation
