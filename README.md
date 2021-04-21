@@ -8,7 +8,7 @@ https://training.linuxfoundation.org/training/open-source-management-and-strateg
   * [Introducing Open Source](module1/README.md#section-introducing-open-source)
   * [A Short History of Open Source Software](module1/README.md#section-a-short-history-of-open-source-software)
   * [Reasons to Use Open Source](module1/README.md#section-reasons-to-use-open-source)
-  
+
 * [Open Source Business Strategy](module2/README.md)
   * [Introducing Open Source Business Models](module2/README.md#section-introducing-open-source-business-models)
   * [Developing an Open Source Strategy](module2/README.md#section-developing-an-open-source-strategy)
@@ -25,11 +25,11 @@ https://training.linuxfoundation.org/training/open-source-management-and-strateg
   * The Role of Continuous Integration & Testing
   * Applying Open Source Methodologies Internally
 
-* Open Source Compliance Programs
-  * Open Source Licensing and Compliance Basics
-  * Building an Effective Compliance Program
-  * Choosing the Right License Compliance Tool
-  * The Role of Open Source Audits During M&A Activities
+* [Open Source Compliance Programs](module5/README.md)
+  * [Open Source Licensing and Compliance Basics](module5/README.md#open-source-licensing-and-compliance-basics)
+  * [Building an Effective Compliance Program](module5/README.md#section-building-an-effective-compliance-program)
+  * [Choosing the Right License Compliance Tool](module5/README.md#section-choosing-the-right-license-compliance-tool)
+  * [The Role of Open Source Audits During M&A Activities](module5/README.md#section-the-role-of-open-source-audits-during-ma-activities)
 
 * Collaborating Effectively with Open Source Projects
   * Understanding Upstream Open Source Projects
