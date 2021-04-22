@@ -31,10 +31,10 @@ https://training.linuxfoundation.org/training/open-source-management-and-strateg
   * [Choosing the Right License Compliance Tool](module5/README.md#section-choosing-the-right-license-compliance-tool)
   * [The Role of Open Source Audits During M&A Activities](module5/README.md#section-the-role-of-open-source-audits-during-ma-activities)
 
-* Collaborating Effectively with Open Source Projects
-  * Understanding Upstream Open Source Projects
-  * Effective Upstream Contribution Strategies
-  * Upstream Development Practices
+* [Collaborating Effectively with Open Source Projects](module6/README.md)
+  * [Understanding Upstream Open Source Projects](module6/README.md#understanding-upstream-open-source-projects)
+  * [Effective Upstream Contribution Strategies](module6/README.md#section-effective-upstream-contribution-strategies)
+  * [Upstream Development Practices](module6/README.md#section-upstream-development-practices)
 
 * [Creating Open Source Projects](module7/README.md)
   * [Open Source Project Creation Overview](module7/README.md#open-source-project-creation-overview)
