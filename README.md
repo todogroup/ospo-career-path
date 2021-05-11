@@ -1,5 +1,21 @@
 # OSPO 101 Training Modules
 
+<img src="ospo101.svg">
+
+OSPO 101 is a course on everything you need to know about open source program office management.
+
+It is intended to be a modularized so the content is reusable in a piecemeal fashion:
+
+* [Open Source Introduction](module1/README.md)
+* [Open Source Business Strategy](module2/README.md)
+* [Effective Open Source Program (OSPO) Management](module3/README.md)
+* [Open Source Development Practices](module4/README.md)
+* [Open Source Compliance Programs](module5/README.md)
+* [Collaborating Effectively with Open Source Projects](module6/README.md)
+* [Creating Open Source Projects](module7/README.md)
+
+The OSPO 101 course material is also available on LF Training as a full fledged packaged course for your organization:
+
 https://training.linuxfoundation.org/training/open-source-management-and-strategy/
 
 ## Course Outline
@@ -20,10 +36,10 @@ https://training.linuxfoundation.org/training/open-source-management-and-strateg
   * [Building an Effective Open Source Program Office](module3/README.md#building-an-effective-open-source-program-office)
   * [Additional Information & Case Studies](module3/README.md#additional-resources)
 
-* Open Source Development Practices
-  * Effective Open Source Development & Participation
-  * The Role of Continuous Integration & Testing
-  * Applying Open Source Methodologies Internally
+* [Open Source Development Practices](module4/README.md)
+  * [Effective Open Source Development & Participation](module4/README.md#effective-open-source-development--participation)
+  * [The Role of Continuous Integration & Testing](module4/README.md#the-role-of-continuous-integration--testing)
+  * [Applying Open Source Methodologies Internally](module4/README.md#applying-open-source-methodologies-internally)
 
 * [Open Source Compliance Programs](module5/README.md)
   * [Open Source Licensing and Compliance Basics](module5/README.md#open-source-licensing-and-compliance-basics)
@@ -40,6 +56,10 @@ https://training.linuxfoundation.org/training/open-source-management-and-strateg
   * [Open Source Project Creation Overview](module7/README.md#open-source-project-creation-overview)
   * [New Project Preparations](module7/README.md#section-new-project-preparations)
   * [Successful Project Launch & Sustainment](module7/README.md##section-successful-project-launch-and-sustainment)
+
+## Acknowledgements
+
+We would like to thank [Guy Martin](https://twitter.com/guyma) for helping seed the initial content for the course. The course was converted to friendly markdown format by the TODO Group community, including contributions from [Chris Aniszczyk](https://twitter.com/cra) and Greg Back.
 
 ## License
 
