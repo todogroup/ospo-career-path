@@ -50,7 +50,7 @@ Collaborative Public Manner is important here because the freedoms provided by t
 
 Software that is not open source software is closed source software. Here’s an explanation of what the closed source software is based on the [Wikipedia](https://en.wikipedia.org/wiki/Software_license) definition:
 
-**Closed source** software, also often referred to as **proprietary** software, is non-free computer software for which the software's publisher or another person retains intellectual rights beyond those allowed for open source software— usually [copyright](https://en.wikipedia.org/wiki/Copyright) of the source code but sometimes also patent rights.
+**Closed source** software, also often referred to as **proprietary** software, is computer software that doesn't come with the open source freedoms, and for which the software's publisher or another person retains intellectual rights beyond those allowed for open source software— usually [copyright](https://en.wikipedia.org/wiki/Copyright) of the source code but sometimes also patent rights.
 
 As before, let’s unpack this definition a bit and explore some key elements:
 
