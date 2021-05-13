@@ -4,7 +4,7 @@
 
 OSPO 101 is a course on everything you need to know about open source program office management.
 
-It is intended to be a modularized so the content is reusable in a piecemeal fashion:
+It is intended to be modularized so the content is reusable in a piecemeal fashion:
 
 * [Open Source Introduction](module1/README.md)
 * [Open Source Business Strategy](module2/README.md)
