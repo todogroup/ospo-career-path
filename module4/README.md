@@ -22,7 +22,7 @@ Requirements are a key consideration for any form of software development, and o
 
 Consider this general overview of a typical open source development model:
 
-![alt_text](image8.png)
+![open-source-development-model](open-source-development-model.png)
 
 As you can see from this graphic, ‘requirements’ generally come in the form of ‘feature requests’ from users or developers, and due to the more iterative/Agile nature of development (more on that shortly), there isn’t a long, protracted requirements phase for open source software development.
 
@@ -35,7 +35,7 @@ It should be noted that many of these principles are part of the [Agile Software
 
 While more and more software development has adopted Agile and/or [DevOps](https://en.wikipedia.org/wiki/DevOps) approaches to software design, there are still significant pockets of traditional closed-source or proprietary software development models that take a more ‘Waterfall’ approach, as illustrated here:
 
-![alt_text](image18.png)
+![waterfall-model](waterfall-model.png)
 
 While this approach does have some advantages in thoroughness of documentation (for example), it’s generally considered too heavyweight and significantly slower than the more iterative or Agile approach that open source software projects take. Additionally, it’s generally more difficult to implement with the typical geographically-dispersed development teams that exist in most open source software projects.
 
@@ -58,27 +58,27 @@ While this is not an exhaustive list, here are some core characteristics of almo
 
 A hallmark of successful open source development efforts is the ability to scale projects effectively depending upon the amount of participation available.  Below are examples of the structures that make that a reality:
 
-![alt_text](image2.png)
+![single-body-of-code](single-body-of-code.png)
 
 
 Small projects usually have a single maintainer and a small body of code.  Releases are usually not strictly scheduled and are put out ‘when they are ready’.
 
-![alt_text](image12.png)
+![code-diveded-into-subsystems](code-diveded-into-subsystems.png)
 
 
 As projects start to get slightly bigger, they still have irregular release cycles, but may start to divide the codebase into subsystems.  At this stage they still usually only have a single maintainer.
 
-![alt_text](image5.png)
+![release-criteria-become-more-stringent](release-criteria-become-more-stringent.png)
 
 
 As projects trend toward medium-sized, they still usually have a single maintainer, but their release criteria will start to become more stringent, with regularly-scheduled releases.
 
-![alt_text](image17.png)
+![delegated-maintainership](delegated-maintainership.png)
 
 
 Once projects pass the medium-sized mark, they start to look toward delegated maintainership, where the primary maintainer can no longer look after every single subsystem in the project.  Trusted developers/contributors who may have speciality or passion for a particular subsystem are appointed to look after that specific body of code.
 
-![alt_text](image7.png)
+![release-overseen-by-decicated-maintainers](release-overseen-by-decicated-maintainers.png)
 
 Once projects graduate to the ‘large’ category, there are several changes - a further division of subsystems (sometimes into even more discrete parts) as well as a more detailed level of delegated maintainership and releases that are not only regular, but overseen by a dedicated set of maintainers, such as the Linux kernel’s LTE (Long-term Evolution) kernel branch.
 
@@ -88,7 +88,7 @@ A key element to these structures and development models is that they function b
 
 As an example of how successful projects implement this scalable development model in practice, consider one of the world’s most successful open source projects, the Linux Kernel:
 
-![alt_text](image9.png)
+![linux-example](linux-example.png)
 
 While Linus Torvalds still maintains overall influence over the project, he relies heavily on a distributed set of maintainers for the different subsystems that are part of the kernel.  Not every open source project grows to this size or needs this level of control, but it’s informative to consider how effective control can be implemented over a large and diverse contributor base.
 
@@ -176,7 +176,7 @@ Understanding and preparing yourself to communicate in this somewhat different w
 
 Let’s bring the graphic presented earlier in this training back to get a better idea of how an open source development process works with regard to cadence:
 
-![alt_text](image8.png)
+![open-source-development-model](open-source-development-model.png)
 
 Open source projects live by the mantra ‘**Release Early, Release Often**.’  While this may seem obvious based on the graphic above, it has elements that affect the development process and cadence, specifically:
 
@@ -310,7 +310,7 @@ Each community is different, but all of your ‘patches’ need to fit within th
 
 #### Understand Community Motivations
 
-![alt_text](image11.png)
+![what-is-a-contributor](what-is-a-contributor.png)
 
 Successful communities are powered by motivated people - and they are not always motivated strictly by money - peer recognition and status are often powerful forces in open source.
 
@@ -324,7 +324,7 @@ Leadership in open source is earned, not granted, and the organization you work 
 
 It’s critical to remember that there is a big difference between Leadership and Control.  Most open source communities will balk at attempts to overly control the project direction, but expect that participants will make valuable contributions before earning the right to lead.
 
-![alt_text](image20.png)
+![humble-but-bold](humble-but-bold.png)
 
 Striking the right balance between being bold and participating actively while being humble enough to take feedback and rework your code contributions takes time and practice, but keeping this balance in mind helps guide you in the right direction.
 
@@ -370,7 +370,7 @@ Even the testing requires multiple steps such as:
 
 Projects absorb changes rapidly and in real time (multiple times per day usually) run automated tests to make sure things are in harmony. In general, the process looks like this:
 
-![alt_text](image4.png "image_tooltip")
+![continuous-integration](continuous-integration.png)
 
 ### Continuous Delivery and Continuous Deployment
 
@@ -394,11 +394,11 @@ The time gap between these steps is meant to be as close to zero as possible. In
 
 A key component of the continuous delivery and deployment cycle is automated and continuous tests that are run frequently on the open source code base.  The concept of overlapping test cycles is used to make sure that code being integrated through continuous integration (remember, in small change sets) is thoroughly tested and it’s easy to spot potential issues.  An example might look like this:
 
-![alt_text](image15.png)
+![overlapping-test-cycles](overlapping-test-cycles.png)
 
 The overlapping release cycles of an open source project give it the ability to release often while keeping a tighter control on overall software quality:
 
-![alt_text](image16.png)
+![overlapping-release-cycles](overlapping-release-cycles.png)
 
 ### Costs and Benefits
 
