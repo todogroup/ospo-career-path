@@ -344,7 +344,7 @@ All of the factors above add up to a software competitive advantage for your org
 
 * In today’s rapidly evolving markets, the company that consistently produces software solutions the most quickly at lowest cost will win.  
 
-* At this point, open source software has become such a mainstream phenomenon that **not using **open source effectively will almost certainly place your organization in a disadvantaged position.
+* At this point, open source software has become such a mainstream phenomenon that **not using** open source effectively will almost certainly place your organization in a disadvantaged position.
 
 Research firm Gartner had this to say about open source:
 
