@@ -433,9 +433,7 @@ As mentioned earlier, it's important to consider how a particular open source co
 
 ### Open Source Review Basics
 
-After Program/Product Management and engineers have reviewed proposed Open Source components for usefulness and quality, a review of the rights and obligations
-
-associated with the use of the selected components should be initiated.
+After Program/Product Management and engineers have reviewed proposed Open Source components for usefulness and quality, a review of the rights and obligations associated with the use of the selected components should be initiated.
 
 A key element to an Open Source Compliance Program is the _Open Source Review_ process. This process is where a company can analyze the Open Source software it uses and understand its rights and obligations.
 
