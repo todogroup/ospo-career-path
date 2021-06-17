@@ -947,7 +947,7 @@ The last point here is probably the most important in the context of our tooling
 
 ### OpenChain
 
-The [OpenChain Project](https://www.openchainproject.org/) is an industry standard for the key requirements of a quality open source compliance program. The project provides a specification and certification program regarding supply chain exchanges of source code, build scripts, license copies, attribution notices, modifications notices, SPDX data and other materials open source licenses governing a software deliverable may require.
+The [OpenChain Project](https://www.openchainproject.org/) ISO 5230 is the International Standard for the key requirements of a quality open source compliance program. The project provides a specification and certification program regarding supply chain exchanges of source code, build scripts, license copies, attribution notices, modifications notices, SPDX data and other materials open source licenses governing a software deliverable may require.
 
 Additionally, the project provides a set of curriculum, as well as a free [assessment tool](https://www.openchainproject.org/get-started/conformance) that can help your organization determine what areas can be improved to help your own open source compliance.
 
@@ -1001,6 +1001,8 @@ On the end side of the process, the primary output is a detailed open source sof
 
 - All open source software used as components, their origin and confirmed licenses
 - All open source snippets used in either proprietary or third-party software, their originating components, and confirmed licenses
+- All 3rd party software components and snippet without any license
+- (All 3rd party commercial software components and snippets)
 
 **Assessing the Scope of an Audit**
 
