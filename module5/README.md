@@ -875,7 +875,7 @@ Since organizations have access to their own source code, as well as the open so
 
 There are many commercial tools (and some open source ones) available that perform this function. In general, these tools rely on "hashing" fingerprints of existing open source code bases (or, potentially internal components if added to the scanning database) to make a determination of what software components are part of a distribution. One of their biggest advantages is in building the Bill of Materials (BOM) we mentioned earlier.
 
-Some scanning tools can also identify "code snippets", which is often helpful when determining if "cut and pasted" code from a particular open source package was used. However, snippet scanning comes at a price - it will often take longer to run a full snippet scan analysis on source code rather than just relying on hashed fingerprints.
+Some scanning tools can also identify "code snippets", which is often helpful when determining if "copy and pasted" code from a particular open source package was used. However, snippet scanning comes at a price - it will often take longer to run a full snippet scan analysis on source code rather than just relying on hashed fingerprints.
 
 The biggest differentiator for many of these tools is their data sources - how often their databases are updated, and how much open source code is represented in their data. Cost, complexity, integration ability for your build environment, and reporting features are also key features you'll need to evaluate before making a tool selection.
 
