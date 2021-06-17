@@ -1142,7 +1142,7 @@ This figure illustrates a sample compliance process, with the various steps each
 
 The output of the process is an open source BoM that you can publish, along with a written offer and various copyright, license and attributions notices fulfilling the legal obligations of the components in your BoM.
 
-For a detailed discussion on the open source compliance process, please download the free e-book [_Open Source Compliance in the Enterprise_](https://www.linux.com/news/open-source-compliance-enterprise-benefits-and-risks/), published by The Linux Foundation.
+For a detailed discussion on the open source compliance process, please download the free e-book [_Open Source Compliance in the Enterprise_](https://www.linuxfoundation.org/resources/publications/open-source-compliance-in-the-enterprise/), published by The Linux Foundation.
 
 **Staff**
 
