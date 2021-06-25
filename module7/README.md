@@ -76,14 +76,6 @@ Just as important as open sourcing for the right reasons is making sure you don�
 
 ![Bad Reasons to Create Open Source Projects](bad-reasons-to-create-opensource.png)
 
-Here’s some examples of bad reasons to create a new open source project:
-
-*   Getting rid of obsolete software
-*   Expecting free engineering from the open source community when you aren’t willing to invest
-*   As a positive marketing spin on an end-of-life announcement
-*   To gain publicity or marketing outreach without the intention to support the project long term
-*   As a means of fulfilling internal success metrics
-
 Hopefully it’s obvious why all of these are bad reasons to create an open source project, but let’s look at what they all have in common - an inward focus and/or expectation of support from the larger open source community.
 
 Working in open source has often been described (from the corporate point of view) as ‘enlightened self-interest.’  It’s apropos in this case because everyone understands that corporations don’t work with open source necessarily for altruistic reasons - there has to be business value aligned with what goes on in open source.  However, the reasons shown above sow a seed of mistrust with the rest of the open source community, which is, after all, composed of both partners and competitors.
