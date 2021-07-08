@@ -348,7 +348,7 @@ All of the factors above add up to a software competitive advantage for your org
 
 Research firm Gartner had this to say about open source:
 
-"**Open source is ubiquitous, it’s unavoidable… having a policy against open source is impractical and places you at a **competitive disadvantage"**
+"**Open source is ubiquitous**, it’s unavoidable… having a policy against open source is impractical and places you at a **competitive disadvantage"**
 
 As a recent [McKinsey & Co. report ](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/developer-velocity-how-software-excellence-fuels-business-performance)described, the "biggest differentiator" for top-quartile companies in an industry vertical was “open source adoption,” where they shifted from users to contributors. The report’s data shows that top-quartile company adoption of open source has three times the impact on innovation than companies in other quartiles.
 
