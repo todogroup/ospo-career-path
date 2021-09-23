@@ -63,4 +63,4 @@ We would like to thank [Guy Martin](https://twitter.com/guyma) for helping seed 
 
 ## License
 
-All documentation is offered under the Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
+All code is offered under the Apache 2.0 and documentation is offered under the Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
