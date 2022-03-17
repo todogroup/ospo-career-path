@@ -158,9 +158,7 @@ Once your company is successfully using open source software in products or serv
 
 **Contributor**
 
-As your company’s participation increases and you begin contributing code to an open source project, you need to selectively engage with targeted projects and communities to drive your
-
-company’s needs. Contributing to strategic open source projects can help your organization gain additional value as code contributions can help shape future features in the project that meet a company’s needs.
+As your company’s participation increases and you begin contributing code to an open source project, you need to selectively engage with targeted projects and communities to drive your company’s needs. Contributing to strategic open source projects can help your organization gain additional value as code contributions can help shape future features in the project that meet a company’s needs.
 
 Here are the necessary components of the open source contribution strategy:
 
