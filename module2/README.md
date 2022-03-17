@@ -182,9 +182,7 @@ The final step in the open source strategy ladder is leadership. This scenario b
 
 Leadership roles in existing open source communities are earned by establishing trust with the project members and by maintaining a high level of continuous contribution to the project.
 
-This scenario requires significant investment in targeted open source communities and consortia
-
-to establish a leadership agenda. Here are the necessary components of the open source leadership strategy:
+This scenario requires significant investment in targeted open source communities and consortia to establish a leadership agenda. Here are the necessary components of the open source leadership strategy:
 
 - Increase engagement with targeted open source communities
 
