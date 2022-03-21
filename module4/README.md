@@ -407,7 +407,7 @@ Obviously, nothing comes for free in software development, so it’s important t
 #### Costs
 
 *   Changes have to be merged very often, probably at least once a day, putting a possible strain on developers. 
-*   The repository must be monitored by a continuous integration server** **which runs scripted automation tests every time contributions are made. Staff has to be allocated to do this. 
+*   The repository must be monitored by **a continuous integration server**, which runs scripted automation tests every time contributions are made. Staff has to be allocated to do this. 
 *   Scripts and other tools have to be run to perform automated tests and report their results and take appropriate actions. It can be a lot of work to prepare this infrastructure. 
 
 #### Benefits
