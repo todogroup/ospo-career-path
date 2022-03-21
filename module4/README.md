@@ -430,9 +430,7 @@ Here are some of the most often utilized tools:
 *   Travis - [https://travis-ci.org/](https://travis-ci.org/)
 *   Github Integrity - [http://integrity.github.io/](http://integrity.github.io/)
 
-One thing to keep in mind is that there are always new tools being developed, so it’s a good idea to check 
-
-Google and/or discuss with other developers what tools for continuous integration they are using.
+One thing to keep in mind is that there are always new tools being developed, so it’s a good idea to check Google and/or discuss with other developers what tools for continuous integration they are using.
 
 ### The Continuous Delivery Foundation
 
