@@ -354,7 +354,7 @@ Once upon a time, most software was written by a relatively small group of devel
 
 Revision control systems **were developed long ago to accommodate more than one contributor working on a project. Usually there is a repository** which stores the master copy of a project, with one or more developers possessing the ability to make changes and then check them in. 
 
-Things get more complicated when there are many developers working in many different locations on a project with many subsystems. The Linux kernel was the first really huge distributed development project, and its creator, Linus Torvalds, invented the git** **system for rationalizing distributed development. 
+Things get more complicated when there are many developers working in many different locations on a project with many subsystems. The Linux kernel was the first really huge distributed development project, and its creator, Linus Torvalds, invented the **git** system for rationalizing distributed development. 
 
 However, a revision control system does not solve the problem of making sure what a diverse group of contributors is doing actually works together; that one set of new code or bug fixes does not conflict with another. That can only be done by testing. 
 
