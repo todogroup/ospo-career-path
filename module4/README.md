@@ -440,7 +440,7 @@ Another way of keeping up with the latest in continuous delivery is to take a lo
 
 By establishing and documenting best practices, working out guidelines and making training available, the goal is to evangelize and spread CI/CD and DevOps practices and improve product release processes. 
 
-The founding projects** **are: 
+**The founding projects** are: 
 
 *   **Jenkins**: an OSS CI/CD system 
 *   **Jenkins X**: Jenkins for Kubernetes
