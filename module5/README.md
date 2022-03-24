@@ -807,7 +807,7 @@ While it is hoped that your organization will practice good coding and engineeri
 - But also other files are valuable: scripts, icons, images, css files
 - Small sections of code copied from Web sites for best practices and snippets is easier
 
-Copying and paste of source code from the Internet in your code can be done, as reuse is generally better than reinventing the wheel each time. However, it's important to respect the author's interests by observing any licensing or copyright obligations
+Copying and paste of source code from the Internet in your code can be done, as reuse is generally better than reinventing the wheel each time. However, it's important to respect the author's interests by observing any licensing or copyright obligations.
 
 ### Outbound Software
 
