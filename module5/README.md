@@ -192,7 +192,7 @@ You should also consider the following common properties:
 - Able to hold liable for damages?
 - Scope of license: work as a whole or only specific file?
 
-The list on the page contains some common questions you should understand the answer to before making your code public, and choose a license that reflects your answers. This is sometimes a scary task, but in the last couple of years, there have been websites created to help with this, which are listed on the next screen.
+The list on the page contains some common questions you should understand the answer to before making your code public, and choose a license that reflects your answers. This is sometimes a scary task, but in the last couple of years, there have been websites created to help with this, which are listed on the next chapter.
 
 ### License Help Resources
 
