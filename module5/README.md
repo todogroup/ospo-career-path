@@ -899,7 +899,7 @@ Even with the best pattern matching or utilization of machine-readable markers, 
 
 ![Binary Scanning](binary-scanning.png)
 
-The purpose of binary scanning is similar to source code scanning (identification of open source components and their versions), which can help with BOM creation, as well as identification of potential vulnerabilities for specific software packages coming into your organization.
+The purpose of binary scanning is similar to source code scanning (identification of open source components and their versions), which can help with SBOM creation, as well as identification of potential vulnerabilities for specific software packages coming into your organization.
 
 The challenge here, of course, is that without readable source code, binary scanning is a heuristic that relies on some characteristic elements of binaries, such as string variables, filenames and sometimes method and field names from languages with run-time code available (e.g. Java). Because hardware architectures and compilers can change over time, binary scanners have to be frequently adjusted to try and account for these changes.
 
@@ -911,7 +911,7 @@ There are also some cases where a reliable scan isn't fully available for a part
 
 DevOps integration using custom-built software and custom processes can be used to augment other previously mentioned scanning mechanisms and gain additional information from the processes used to build the software.
 
-Because the DevOps build system is able to determine dependencies during builds, it can combine that information with the output of other tools to help create a more robust BOM. This is especially true of development organizations that may have intricate dependencies, or legacy packages in their software that are unlikely to be identified correctly by commercial or open source scanning technologies.
+Because the DevOps build system is able to determine dependencies during builds, it can combine that information with the output of other tools to help create a more robust SBOM. This is especially true of development organizations that may have intricate dependencies, or legacy packages in their software that are unlikely to be identified correctly by commercial or open source scanning technologies.
 
 The one downside is that these custom configurations/systems do require effort to build and maintain, but if your organization already has a build system tied to a DevOps infrastructure, integrating outside scanning tools into this environment may be possible and may help alleviate a fair amount of manual review/compliance work.
 
@@ -919,7 +919,7 @@ The one downside is that these custom configurations/systems do require effort t
 
 ![Component Management](components.png)
 
-A handy compliance tool to help you bring together your various associated Bill of Materials (BOMs) and provide documentation and reporting is a Component Management System. There are various commercial vendors and some open source projects (search [github.com](https://github.com/)) that provide this kind of functionality.
+A handy compliance tool to help you bring together your various associated Software Bill of Materials (SBOMs) and provide documentation and reporting is a Component Management System. There are various commercial vendors and some open source projects (search [github.com](https://github.com/)) that provide this kind of functionality.
 
 Some organizations even choose to write this kind of database program for themselves, but the important thing is that it can help with a variety of things, including vulnerability management, approval of open source components, tracking of licenses, and identification of which open source components are used throughout all of the software in an organization.
 
