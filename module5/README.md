@@ -837,13 +837,13 @@ For example, some licenses are not compatible, such as the GNU Public License (G
 
 In addition, even with tooling, some license statements are ambiguous, for example "Licensed under BSD". In cases like this, it's important to involve your legal team and stakeholders in determining how to proceed.
 
-### Bill of Materials (BOM)
+### Software Bill of Materials (SBOM)
 
-One of the most critical things that code scanning or compliance tooling can provide is a programmatic way of determining what is in the software or product that you are shipping. This is in the form of a Bill of Materials (BOM).
+One of the most critical things that code scanning or compliance tooling can provide is a programmatic way of determining what is in the software or product that you are shipping. This is in the form of a Software Bill of Materials (SBOM).
 
-A BOM provides a detailed account of what is in a software package delivery, including identifying how much of that software package consists of open source components and which licenses are in use for those components.
+An SBOM provides a detailed account of what is in a software package delivery, including identifying how much of that software package consists of open source components and which licenses are in use for those components.
 
-The [Software Package Data Exchange (SPDX)](https://spdx.org) project specifies one implementation of how to express a Bill of Materials.
+The [Software Package Data Exchange (SPDX)](https://spdx.org) project specifies one implementation of how to express a Software Bill of Materials.
 
 ### Tool Support Summary
 
