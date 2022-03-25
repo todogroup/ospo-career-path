@@ -873,7 +873,7 @@ We'll cover each of these areas in the following pages.
 
 Since organizations have access to their own source code, as well as the open source packages used to build their products, source code scanning tools are some of the most widely used tools in compliance.
 
-There are many commercial tools (and some open source ones) available that perform this function. In general, these tools rely on "hashing" fingerprints of existing open source code bases (or, potentially internal components if added to the scanning database) to make a determination of what software components are part of a distribution. One of their biggest advantages is in building the Bill of Materials (BOM) we mentioned earlier.
+There are many commercial tools (and some open source ones) available that perform this function. In general, these tools rely on "hashing" fingerprints of existing open source code bases (or, potentially internal components if added to the scanning database) to make a determination of what software components are part of a distribution. One of their biggest advantages is in building the Software Bill of Materials (SBOM) we mentioned earlier.
 
 Some scanning tools can also identify "code snippets", which is often helpful when determining if "copy and pasted" code from a particular open source package was used. However, snippet scanning comes at a price - it will often take longer to run a full snippet scan analysis on source code rather than just relying on hashed fingerprints.
 
