@@ -282,7 +282,7 @@ Comcast’s involvement in open source was a gradual process that evolved over t
 
 Comcast began contributing to open source around 2006 when Jon Moore, Chief Software Architect, made a patch contribution to Apache HTTP. He showed the management team that it was more cost effective to have the patch incorporated into the main project than it was to maintain it separately.
 
-Working with an interdisciplinary team, Moore worked to set up an open source advisory council, which consisted of legal and technical subject matter experts. They reviewed contributions and created internal guidelines focused on good open source practices and community building. In 2013, when they started tracking these contributions, they had 13. They had plans to 10x that in 2017.
+Working with an interdisciplinary team, Moore worked to set up an open source advisory council, which consisted of legal and technical subject matter experts. They reviewed contributions and created internal guidelines focused on good open source practices and community building. In 2013, when they started tracking these contributions, they had 13. They had plans to do almost 10x more of that in 2017.
 
 *"When companies establish open source practices they send a big message saying that we’re serious about open source and that we want to invest in it."* – Nithya Ruff, Senior Director Open Source Practice at Comcast.
 
