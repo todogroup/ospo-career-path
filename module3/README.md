@@ -330,7 +330,7 @@ Microsoft is now an accepted big player in the open source space, but just a few
 
 That’s when the exploration of what Microsoft could do with open source began in earnest, McAffer said. In the early days, if anyone in the company was interested in doing anything with open source, they came to the centralized group for assistance from the open source developers, contributors, and maintainers involved.
 
-About three years ago, things began to change. Microsoft decided to make open source pervasive throughout the company and rolled open source into the main engineering groups.
+Around the year 2014, things began to change. Microsoft decided to make open source pervasive throughout the company and rolled open source into the main engineering groups.
 
 > "If that’s all we had done, we would have left an untenable vacuum around how we do open source," said McAffer. “Someone has to think about policy and how all the open source efforts would be coordinated, the processes and tools they would use, how would we keep track of projects, etc. So, we created what is now known as the Open Source Programs Office to handle all those issues.”
 
