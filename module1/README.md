@@ -324,7 +324,7 @@ The open source approach has proven so effective for innovation that many leadin
 
 * The arena of scientific computing and massively parallel computing are almost exclusively open source domains
 
-Many open source communities exhibit rapid evolution that can be harnessed through participation to speed your own innovation.The open source ethos of bottom-up meritocracy directs ownership and accountability back to development teams
+Many open source communities exhibit rapid evolution that can be harnessed through participation to speed your own innovation. The open source ethos of bottom-up meritocracy directs ownership and accountability back to development teams
 
 One of the best ways to introduce a new software idea, test new capabilities and grow an active user base is through an open source community
 
