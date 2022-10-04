@@ -1002,6 +1002,8 @@ On the end side of the process, the primary output is a detailed open source sof
 
 - All open source software used as components, their origin and confirmed licenses
 - All open source snippets used in either proprietary or third-party software, their originating components, and confirmed licenses
+- All 3rd party software components and snippet without any license
+- (All 3rd party commercial software components and snippets)
 
 **Assessing the Scope of an Audit**
 
