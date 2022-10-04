@@ -144,9 +144,9 @@ In 1997 Eric. S. Raymond published *The Cathedral & The Bazaar,* an analysis of 
 
 At the heart of the naming debate between ‘Free Software’ and ‘Open Source Software’ is an oddity in the English language.  Specifically, the two different meanings of ‘free’:
 
-* Free as in free speech, freedom to distribute 
+* Free as in free speech, freedom to distribute. 
 
-* Free as in no cost, or as is often said as in "free beer" 
+* Free as in no cost, or as is often said as in "free beer". 
 
 Christine Peterson and the others involved in advocating for ‘open source’ were attempting to clarify the concept of free here - making it clear that the source code would be open for inspection, redistribution and modifications.  As more corporations became involved with these software ecosystems, open source gained traction, in large part due to the perception that ‘free’ software didn’t have as much value as ‘professionally’ developed code.  In reality, the amount of quality open source software has only continued to increase, and much of it is professionally developed.
 
@@ -212,13 +212,13 @@ By the end of this section, you should be able to:
 
 There is not some mythical ‘open source community’ that magically makes all open source development happen.  There are many different open source communities, with many different types of cultures.  However, the community construct harkens back to the earliest days of computers, rooted in the academic/corporate/sharing/hacker mentality. Almost all communities have the following main characteristics:
 
-* Geographic distribution of development resources
+* Geographic distribution of development resources.
 
-* Decentralized decision-making capabilities
+* Decentralized decision-making capabilities.
 
-* Transparency of both development and decision making
+* Transparency of both development and decision making.
 
-* Meritocracy - influence is earned through sustained valuable contributions
+* Meritocracy - influence is earned through sustained valuable contributions.
 
 In addition, most communities exhibit a tight vertical hierarchy, with loose horizontal structure, which allows small changes (the lingua franca of open source) to flow upward, passing through many rapid review cycles that provide a significant set of ‘checks and balances’ that help ensure software quality.
 
@@ -232,11 +232,11 @@ While modern software development teams inside of technology corporations can sh
 
 Here are some of the most significant practices of open source software projects that are different from corporate development teams:
 
-* Influence and stature are not conveyed by title or position - meritocracy rules the day
+* Influence and stature are not conveyed by title or position - meritocracy rules the day.
 
-* Transparency in both source code and decision making is paramount - no side conversations or decisions
+* Transparency in both source code and decision making is paramount - no side conversations or decisions.
 
-* Support for geographically-distributed teams is built in - asynchronous modes of communication and culture are the norm
+* Support for geographically-distributed teams is built in - asynchronous modes of communication and culture are the norm.
 
 Some organizations have applied lessons from the open source community to their own internal efforts (a practice known as ‘Inner Source’) to take advantage of the speed and flexibility they offer.  Doing this can also help build the necessary institutional culture that allows for easier engagement with the upstream open source ecosystem.
 
@@ -284,7 +284,7 @@ So exactly how does open source speed up development?
 
 Using open source software can significantly reduce development costs in a number of proven ways:
 
-* A recent [Red Hat study](https://www.redhat.com/cms/managed-files/rh-enterprise-open-source-report-detail-f21756-202002-en.pdf) has shown that open source has a 30% lower total cost of ownership compared to commercial/closed source solutions
+* A recent [Red Hat study](https://www.redhat.com/cms/managed-files/rh-enterprise-open-source-report-detail-f21756-202002-en.pdf) has shown that open source has a 30% lower total cost of ownership compared to commercial/closed source solutions.
 
 * With open source you can avoid functionality overkill. Many closed source products have an overload of capabilities that clients rarely use, need, or even want.  And they are often bundled so that they must be paid for anyway.
 
@@ -304,7 +304,7 @@ Open source offers the most flexibility of any 3rd party software alternative:
 
 * Because you have access to the source code, you may create any customizations you need, and if they are of value to others, the community may support them in a future release.
 
-* Open source communities encourage and facilitate customization making it easier to extend the solution for particular use cases or to integrate with other products
+* Open source communities encourage and facilitate customization making it easier to extend the solution for particular use cases or to integrate with other products.
 
 * Healthy open source communities provide ongoing support and encourage input and suggestions for improvements.
 
@@ -314,17 +314,17 @@ Open source software was originally conceived as a way to facilitate development
 
 The open source approach has proven so effective for innovation that many leading edge software technologies are driven by open source communities.  For instance:
 
-* The Internet has been developed primarily as a large collection of open source projects
+* The Internet has been developed primarily as a large collection of open source projects.
 
-* Software development tool innovation and integration is largely an open source domain
+* Software development tool innovation and integration is largely an open source domain.
 
 * The incredible rate of innovation in the mobile communications space is only possible through open source.  Although Android is the primary example, even closed source platforms like Apple’s iOS are largely built using hundreds of open source software libraries and components.
 
 * Like the rest of the Internet, social media software platforms have emerged from and grown through open source software.
 
-* The arena of scientific computing and massively parallel computing are almost exclusively open source domains
+* The arena of scientific computing and massively parallel computing are almost exclusively open source domains.
 
-Many open source communities exhibit rapid evolution that can be harnessed through participation to speed your own innovation.The open source ethos of bottom-up meritocracy directs ownership and accountability back to development teams
+Many open source communities exhibit rapid evolution that can be harnessed through participation to speed your own innovation. The open source ethos of bottom-up meritocracy directs ownership and accountability back to development teams
 
 One of the best ways to introduce a new software idea, test new capabilities and grow an active user base is through an open source community
 
@@ -358,9 +358,9 @@ There has been a growing trend in the last several years of both the standards w
 
 There are some good examples of projects where this is or already has worked:
 
-* The Linux Foundation's JDF ([Joint Development Foundation](https://www.jointdevelopment.org/)) efforts - GraphQL among others
+* The Linux Foundation's JDF ([Joint Development Foundation](https://www.jointdevelopment.org/)) efforts - GraphQL among others.
 
-* OASIS Open’s [Open Cybersecurity Alliance](https://opencybersecurityalliance.org/), which is providing open source reference implementations of existing open standards for sharing cyber threat data
+* OASIS Open’s [Open Cybersecurity Alliance](https://opencybersecurityalliance.org/), which is providing open source reference implementations of existing open standards for sharing cyber threat data.
 
 * [IETF](https://www.ietf.org/)’s mantra of "rough consensus and running code" has led to many open standards collaborating with open source projects such as OpenDaylight, OPNFV, OpenStack, and others.
 
