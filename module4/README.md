@@ -378,7 +378,7 @@ The whole process of continuous delivery and continuous deployment can be deline
 
 1. **Continuous Integration**
 
-Changes are to be merged into the main branch (“master”) as often as possible. Automated builds** **are run on as many variations of software and hardware as possible. Conflicts are resolved as soon as they arise. 
+Changes are to be merged into the main branch (“master”) as often as possible. **Automated builds** are run on as many variations of software and hardware as possible. Conflicts are resolved as soon as they arise. 
 
 2. **Continuous Testing/Delivery**
 
