@@ -460,7 +460,7 @@ When analyzing your open source usage, you'll need to gather information about t
 - Status of the community around the package (activity, diverse membership, responsiveness)
 - Version
 - Download or source code URL
-- Copyright owner
+- Copyright owner(s)
 - License and License URL
 - Attribution and other notices and URLs
 - Description of modifications intended to be made
