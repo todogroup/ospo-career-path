@@ -368,6 +368,7 @@ Relevant terms include:
 - Pasting
 - Adapting
 - Inserting
+- Embedding
 
 ![Incorporation](incorporation.png)
 
