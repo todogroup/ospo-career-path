@@ -1115,7 +1115,7 @@ There may also be an opportunity to assist the acquisition with improved tooling
 
 Passing an open source compliance audit is not hard if you're prepared. However, it is very unlikely to happen if you begin preparing only once an acquirer shows interest. These activities are meant to go hand-in-hand with your daily business and development activities. The objective is to ensure the company tracks all open source components and respects open source license obligations resulting from use of open source components. These same measures can be of great help if your company becomes a target for a corporate transaction, as they minimize the risk of surprises.
 
-As you'll see in the next few pages, these practices are consistent with what we've learned to this point in this module.
+As you'll see in the next few chapters, these practices are consistent with what we've learned to this point in this module.
 
 **Know What's In Your Code**
 
