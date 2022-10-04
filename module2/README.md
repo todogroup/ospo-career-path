@@ -348,7 +348,7 @@ It’s important to engage all levels of the organization in developing these di
 
 ### Review & Approval
 
-No matter how careful or diligent your discovery process, the real test faced by open source code must come from your review and approval processes. Approval and review are your first lines of defense against security, legal and operational risk that can accompany open source.
+No matter how careful or diligent your discovery process, the real test faced by open source code must come from your review and approval processes. Review and approval are your first lines of defense against security, legal and operational risk that can accompany open source.
 
 As with discovery, leveraging previously-vetted code can speed up this process, so if your open source team has not already done so, best practices dictate creating lists of approved components and versions, reviewed and approved license types, and previously-employed evaluation rationale and results.
 
