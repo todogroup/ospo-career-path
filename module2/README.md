@@ -467,7 +467,7 @@ Additionally, building out the necessary process infrastructure for such heavywe
 
 ### Section Overview
 
-In this section, we will discuss the role that the Open Source Program Office (OSPO) plays in helping define strategy, implementing associated policies, and guiding an organization's involvement in open source. There will be a more detailed coverage of how to set up and run an OSPO in a later course in this series.
+In this section, we will discuss the role that the Open Source Program Office (OSPO) plays in helping define strategy, implementing associated policies, and guiding an organization's involvement in open source. There will be a more detailed coverage of how to set up and run an OSPO in a later module in this series.
 
 ### Learning Objectives
 
