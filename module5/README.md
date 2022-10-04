@@ -890,7 +890,7 @@ While we are covering license scanning tools as a separate item, in practice, mo
 
 License scanning relies on searching source code for relevant keywords, and/or machine readable markers (such as SPDX blocks) to determine the relevant licenses attached to each file or package. These scans can also identify copyright, author statements and sometimes acknowledgements.
 
-While the database of open source licenses isn't as large as the database of open source components required to build a component identification piece in the BOM, it still does require access to a knowledge base of existing open source licenses. In general, license scanning has a harder time identifying non-OSS licenses, as there are a larger variety of these types of licenses.
+While the database of open source licenses isn't as large as the database of open source components required to build a component identification piece in the SBOM, it still does require access to a knowledge base of existing open source licenses. In general, license scanning has a harder time identifying non-OSS licenses, as there are a larger variety of these types of licenses.
 
 As noted earlier, a primary use of license scanning is when checking inbound open source software to verify the license in use. This is often one of the first steps performed (after evaluation for fitness of technical purpose) before validating an open source component for use in your organization.
 
