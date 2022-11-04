@@ -1,4 +1,4 @@
-# 👋 Welcome OSPO Career Path Repo 101 Training Modules
+# 👋 Welcome OSPO Career Path Repo
 
 OSPO Career Path is a set of vendor-neutral, open source, and free courses created by folks from the TODO / OSPO community to support training inside the organization. Each course is intended to be modularized so the content is reusable in a piecemeal fashion.
 
