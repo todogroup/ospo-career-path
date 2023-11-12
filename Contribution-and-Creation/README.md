@@ -33,7 +33,6 @@ This program is designed around three main thematic areas, which will be formatt
 **MODULE 3 - SUSTAINABILITY AND RESILIENCE**
 
 * Growing and nurturing and keeping an open source project resilient
-   * Techniques and best practices for promoting the open source project that matters to your organization
    * Building and managing vibrant communities around the open soruce projects that matter to your organization.
    * An introduction to open source software analytics and crucial open source metrics to gauge success and areas of improvement
 
