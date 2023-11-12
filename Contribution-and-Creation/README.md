@@ -33,7 +33,6 @@ This program is designed around three main thematic areas, which will be formatt
 **MODULE 3 - SUSTAINABILITY AND RESILIENCE**
 
 * Growing and nurturing and keeping an open source project resilient
-   * Building and managing vibrant communities around the open soruce projects that matter to your organization.
    * An introduction to open source software analytics and crucial open source metrics to gauge success and areas of improvement
 
 By the end of this training course, participants will be well-equipped with the knowledge and tools necessary to contribute to open source projects and kickstart and release open source projects, ensuring they align with their organization's strategic objectives and foster a culture of collaboration and innovation.
