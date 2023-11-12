@@ -29,13 +29,29 @@ This program is designed around three main thematic areas, which will be formatt
   * Understanding the strategic advantages of launching open source initiatives for your organization.
   * Navigating through legal intricacies, including Intellectual Property (IP) and licensing considerations.
   * Mastering administrative and technical aspects, from repository management to selecting the right tools for your project.
-  * 
+  
 **MODULE 3 - SUSTAINABILITY AND RESILIENCE**
 
 * Growing and nurturing and keeping an open source project resilient
    * An introduction to open source software analytics and crucial open source metrics to gauge success and areas of improvement
 
 By the end of this training course, participants will be well-equipped with the knowledge and tools necessary to contribute to open source projects and kickstart and release open source projects, ensuring they align with their organization's strategic objectives and foster a culture of collaboration and innovation.
+
+### Prerequisite Knowledge:
+
+* Basic Understanding of Software Development: Familiarity with software development processes and terminology.
+* Awareness of Open Source Concepts: A general understanding of what open source is.
+
+### What I Will Learn In The Open Source Contribution and Creation Course
+
+By the end of this course, participants will be equipped with the knowledge and skills to:
+
+* Manage outbound open source projects within organization entities effectively 
+* Understand legal and ethical implications
+* Motivations, and best practices to move from usage to contribution
+* Integrate open source strategies within their organizations.
+
+Upon successful completion, participants will receive a certificate, demonstrating their proficiency in managing outbound open source initiatives within organizations.
 
 ***
 
