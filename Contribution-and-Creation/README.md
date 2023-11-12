@@ -11,7 +11,7 @@ This course series is an extension of modules 6 and 7 from the OSPO 101 training
 ### Program Overview
 
 For people at organizations looking to enhance their open source and/or IT strategy (people shaping the process), delving into outbound open source – which involves contributing to existing projects or initiating new ones – can be a transformative experience. 
-This training course is designed to guide open source managers adn stakeholders within organizations through this journey.
+This training course is designed to guide open source managers and stakeholders within organizations through this journey.
 
 This program is designed around three main thematic areas, which will be formatted into modules:
 
