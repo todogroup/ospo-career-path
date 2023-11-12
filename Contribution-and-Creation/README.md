@@ -18,6 +18,7 @@ This program is designed around three main thematic areas, which will be formatt
 **MODULE 1 - COLLABORATION**
 
 * Transitioning from usage (also called consumption) to Contribution
+* Motivation for contribution
   * Diving Deep into starting your organization's journey in contributing to open source projects
   * Exploring various contribution models and procedures suitable for enterprises of all scales
   * Managing and encouraging spare-time contributions
