@@ -39,17 +39,22 @@ By the end of this training course, participants will be well-equipped with the 
 
 ### Prerequisite Knowledge:
 
-* Basic Understanding of Software Development: Familiarity with software development processes and terminology.
-* Awareness of Open Source Concepts: A general understanding of what open source is.
+* Familiarity with Open Source Software Development: Understanding of open source software development processes and terminology.
+* Awareness of Open Source Concepts: A general knowledge of open source in terms of legal, community, business, and ethical aspects.
+* Experience in Managing Open Source in Organizations: For example, familiarity with the operations of an Open Source Program Office (OSPO).
+* Preparatory Reading:
+  * [Starting an Open Source Project](thttps://todogroup.org/guides/starting/): A guide to initiating an open source project.
+  * [Building an Inclusive Community](https://todogroup.org/guides/diversity-inclusion/): A guide focused on fostering diversity and inclusion in open source communities.
+  * Read the guide Building Leadership (https://todogroup.org/guides/building-leadership/): A guide on developing leadership within open source projects.
 
 ### What I Will Learn In The Open Source Contribution and Creation Course
 
 By the end of this course, participants will be equipped with the knowledge and skills to:
 
-* Manage outbound open source projects within organization entities effectively 
-* Understand legal and ethical implications
-* Motivations, and best practices to move from usage to contribution
-* Integrate open source strategies within their organizations.
+* Manage outbound open source projects within an organization effectively 
+* Understand legal and ethical implications when managing open source in an organization
+* Motivations, and best practices to move from usage to contribution in organizations
+* Integrate open source strategies within an organization.
 
 Upon successful completion, participants will receive a certificate, demonstrating their proficiency in managing outbound open source initiatives within organizations.
 
