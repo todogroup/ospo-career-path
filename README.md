@@ -43,7 +43,7 @@ Courses are based on the different OSPO responsibilities established on the OSPO
 
 ### Intermediate Courses ⭐️⭐️
 
-Continuation fo OSPO 101 modules:
+Continuation of OSPO 101 modules:
 
 * [🆕 Course] Effective OSPO policy & processes implementation for **Users**
 * [🆕 Course] Effective OSPO policy & processes implementation for **Contributors**
@@ -56,7 +56,7 @@ TBT
 
 ## 🙋‍♀️ Contribute
 
-Please open a new issue or PR to contribute to this repo adn help us improve the OSPO Career Path content!
+Please open a new issue or PR to contribute to this repo and help us improve the OSPO Career Path content!
 
 ## 👩‍⚖️ License
 
