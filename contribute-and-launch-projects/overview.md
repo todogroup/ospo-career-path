@@ -1,7 +1,13 @@
 # Program Overview
 
 Contribute and Launch Open Source Projects is a 3-module course series for workers within organizations managing open source that builds on the accumulated wisdom of the previous [Guide to Outbound Open Source Software](https://todogroup.org/guides/outbound-oss/). 
-Building on our OSPO Career Path, this course serves as a continuation of Module 6 from the OSPO 101 course.
+
+Before taking this course, we recommend students take the following courses in advance:
+
+* [LFD102] A Beginner’s Guide to Open Source Software Development
+* [LFC202-207] Open Source Management & Strategy
+* [LFC193] Introduction to Open Source License Compliance Management
+* [LFC105] Antitrust Laws and Open Source Software Project Management and Participation
 
 This program is designed around three main thematic areas: 
 
