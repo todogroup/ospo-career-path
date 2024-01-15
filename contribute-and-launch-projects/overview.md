@@ -4,10 +4,16 @@ Contribute and Launch Open Source Projects is a 3-module course series for worke
 
 Before taking this course, we recommend students take the following courses in advance:
 
-* [LFD102] A Beginner’s Guide to Open Source Software Development
-* [LFC202-207] Open Source Management & Strategy
-* [LFC193] Introduction to Open Source License Compliance Management
-* [LFC105] Antitrust Laws and Open Source Software Project Management and Participation
+* LFD102 - A Beginner’s Guide to Open Source Software Development
+* LFC202-207 - Open Source Management & Strategy
+* LFC193  - Introduction to Open Source License Compliance Management
+* LFC105 - Antitrust Laws and Open Source Software Project Management and Participation
+
+**Industry-Vertical Complementary Courses**
+
+* LFD137 - Open Source Contribution in Finance: This course is recommended for students in the finance sector who are enrolled in the 'Contributing and Launching Open Source Projects within Organizations' Course.
+
+
 
 This program is designed around three main thematic areas: 
 
