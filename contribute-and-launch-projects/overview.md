@@ -112,9 +112,8 @@ TOTAL EXAM TIME: 1 Hour
 TBD
 
 
-## Digital Badge Description and Skills
+## Digital Badge Description, Skills and Tags
 
 Earners of the Contributing and Launching Open Source Projects within Organizations (LFC115*) course badge have demonstrated a comprehensive understanding of managing open source projects within an organization context. They've gained skills in effectively setting up strategies and managing team contributions to open source projects and launching open source projects. The holder of this badge has demonstrated skills in project lifecycle management, legal and governance considerations, community management, and the establishment of effective open source metrics strategies.
 
-** A list of skills (1-4 word descriptions of the skills, competencies, or tools demonstrated by the earner)**
 `open source management and strategy`; `open source governance`; `project management`; `open source project life cycle`
