@@ -9,54 +9,64 @@ The target audience of the OSPO Career path is intended to Open Source professio
 * Open Source project managers
 * Open Source leaders and general managers
 
-## 📖 What defines an OSPO: Definition and characteristics
+## 📖 OSPO Definition
 
-### OSPO Definition
-
-An open source program office (OSPO) is designed to (1) be the center of competency for an organization's open source operations and structure and (2) put a strategy and set of policies on top of an organization's open source efforts. This can include setting code use, distribution, selection, auditing, and other policies, training developers, ensuring legal compliance, and promoting and building community engagement that benefits the organization strategically. See the OSPO definition hosted by the TODO Group for more information.
-OSPO Characteristics
-
-To a certain degree, any organization calling itself an OSPO likely indicates that the organization has reached a maturity stage, gained critical mass support with its enterprise, and manifests five key characteristics:
-* Employees are tasked with fostering and nurturing OSS usage.
-* The organization has a formal policy around the use and production of OSS.
-* Executives recognize that OSS and open source more broadly are important strategic assets.
-* Significant numbers of employees are contributing code to open source projects.
-* Processes, procedures, and tools are in place to streamline and facilitate open source consumption and participation
-* See the OSPO characteristics hosted by the TODO Group for more information.
+Please read the [OSPO Definition featured in the OSPO Glossary](https://ospoglossary.todogroup.org/ospo-definition/) to learn more
 
 
-## 📈 Career Path Progression
-Courses are based on the different OSPO responsibilities established on the OSPO Mind Map. It provides key requirements that OSPO Teams or open source professionals should learn for quality implementation of an Open Source Program Office:
+## 🧩 OSPO Career Path Scope and Mission
 
-|  | Description |
-| --- | --- |
-| ✅ | Courses that already exist (either at TODO or other OS communities) |
-| 🆕 | New Courses to be made |
-| 🤝 | Courses provided by other OS Communities |
+The OSPO Career Path is led by participants from the [OSPO Career Path Working Group](https://lists.todogroup.org/g/WG-ospo-career-path). This working group has identified four different types of personas that engage in an OSPO at some level:
 
-### Beginner Courses ⭐️
+* (1) Open Source / OSPO managers shaping the process within an organization
+* (2) Open Source / OSPO contributors within an organization (code and non-code contributors)
+* (3) Open Source / OSPO managers executing the process (e.g Project Managers, DevRels, etc)
+* (4) Software staff within an organization that is involved in using open source software
 
-* ✅ OSPO 101 Course (beginner) - TODO
-* ✅ 🤝 Introduction to OS license and compliance course (beginner) - OpenChain
-* ✅ 🤝 Developing Secure Software (beginner) - OpenSSF
-* ✅ 🤝 Software Package Data Exchange (beginner) - SPDX
+The scope of the OSPO Career Path focuses on persona (1) and (2) and works together with the LF Training & Certification team to turn the free modules developed in the working repo into future courses that will be part of the best practices catalog.
 
-### Intermediate Courses ⭐️⭐️
+## 🚀 2024 Roadmap
 
-Continuation of OSPO 101 modules:
+| January - April | May - August | September - December | 
+| --- | --- | --- |
+| Finish content [LFC115 Course](https://github.com/todogroup/ospo-career-path/tree/main/Contribution-and-Creation) in the working repo; Assign course instructors | Launch [LFC115 Course](https://github.com/todogroup/ospo-career-path/tree/main/Contribution-and-Creation) with LF Training; set up distribution campaign with LF | Propose new course title and course outline | 
 
-* [🆕 Course] Effective OSPO policy & processes implementation for **Users**
-* [🆕 Course] Effective OSPO policy & processes implementation for **Contributors**
-* [🆕 Course] Effective OSPO policy & processes implementation for **Partners**
+## 💡 Theme Wishlist
+Below is a set of topics that the working group brainstormed as the baseline to start developing the career path. While some of the courses shared here already exist, others will need to be created from scratch or include additional 
+sections to be customized for open source managers and worker contributors.
 
-### Advanced Courses ⭐️⭐️⭐️
+Open Source Strategy
 
-TBT
+* Building Effective Open Source Programs
+* Open Source Management & Strategy
+
+Policy and Compliance
+* Open Source Program Office Essentials
+* OpenChain Conformance Training
+* Open Source Standards Essentials
+
+Community Engagement & Contribution
+* Open Source Community Management
+* Building Effective Open Source Programs
+* Open Source Contribution Fundamentals
+
+Legal Support
+* Open Source Licensing Basics (for Developers)
+* Open Source License Compliance (for Lawyers)
+
+Security Support
+* Open Source Security Essentials (for Developers)
+* Open Source Security Essentials (for Managers)
+
+Technical Integration
+* Open Source Development with Git
 
 
 ## 🙋‍♀️ Contribute
 
-Please open a new issue or PR to contribute to this repo and help us improve the OSPO Career Path content!
+[OSPO Career Path Working Group](https://lists.todogroup.org/g/WG-ospo-career-path)is dedicated to build an OSPO Career Path composed of different modules on open source strategy, project governance, compliance, and community engagement from beginner to advanced.
+This team meets bi-monthly on Tuesdays (the invite link is sent via their mailing list) and is open to everyone willing to help build a training path for open source managers (those shaping the policies and processes) and open source contributors within an organization 
+(both code and non-code contributors).
 
 ## 👩‍⚖️ License
 
