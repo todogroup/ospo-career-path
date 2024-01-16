@@ -2,22 +2,21 @@
 
 ## Course Description 
 
-Contribute and Launch Open Source Projects is a 3-module course series for workers within organizations managing open source that builds on the accumulated wisdom of the previous [Guide to Outbound Open Source Software](https://todogroup.org/guides/outbound-oss/). This course offers management and strategic insights into why and how organizations can efficiently contribute to open source projects.
+*Contribute and Launch Open Source Projects* is a 5-module course series designated for workers within organizations managing open source that builds on the accumulated wisdom of the previous [Guide to Outbound Open Source Software](https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/) documentation. This course offers management and strategic skills into why and how the organizations's team units can efficiently contribute to open source projects.
 
-Upon completion, learners will be equipped to establish and manage open source projects more effectively. They will gain a clear understanding of how to tailor these practices to their specific organizational context and teams, whether in a large or small organization.
+Upon course completion, learners will be equipped to establish and manage open source projects more effectively. They will gain a clear understanding of how to tailor these practices to their specific organizational context and teams, whether in a large or small organization.
 
 ## Course Learning Outcomes
 
 By the end of this course, you should be able to:
 
-* Understand and Communicate the Strategic Importance of Open Source Contribution: You will gain an in-depth understanding of why contributing to open source projects is strategically beneficial for organizations
-* Develop Project Management Skills in Open Source Context: You will be equipped with skills to effectively establish and manage open source projects in an organization context.
-* Enhance Team Collaboration in Open Source Projects: Participants will learn techniques to improve collaboration and coordination across teams/departments
-* Contribute and Launch Open Source Projects is a 3-module course series for workers within organizations managing open source that builds on the accumulated wisdom of the previous [Guide to Outbound Open Source Software](https://todogroup.org/guides/outbound-oss/).
+* **Understand and Communicate the Strategic Importance of Open Source Contribution:** You will gain an in-depth understanding of why contributing to open source projects is strategically beneficial for organizations
+* **Develop Project Management Skills in Open Source Context:** You will be equipped with skills to effectively establish and manage open source projects in an organization context.
+* **Enhance Team Collaboration in Open Source Projects:** You will learn techniques to improve collaboration and coordination across teams/departments
 
 ## Course Audience
 
-This course series is designed to help executives and managers shaping the processes of open source within organizations to understand and articulate the basic concepts for contributing and launching open source projects within their organization.
+This course series is designed to help executives and managers who shape open source processes within organizations, understand and articulate the basic concepts for contributing and launching open source projects in their organization.
 
 ## Knowledge/Skills Prerequisites
 
@@ -28,9 +27,9 @@ Before enrolling, students should have a basic understanding of software develop
 * LFC193  - Introduction to Open Source License Compliance Management
 * LFC105 - Antitrust Laws and Open Source Software Project Management and Participation
 
-**Additional Industry-Vertical Courses**
+Students involved in the finance sector are advised to consider the following industry-vertical course for additional guidance:
 
-* LFD137 - Open Source Contribution in Finance: This course is recommended for students in the finance sector who are enrolled in the 'Contributing and Launching Open Source Projects within Organizations' Course
+* LFD137 - Open Source Contribution in Finance
   
 ## Lab/System Prerequisites
 
@@ -114,6 +113,7 @@ TBD
 
 ## Digital Badge Description, Skills and Tags
 
-Earners of the Contributing and Launching Open Source Projects within Organizations (LFC115*) course badge have demonstrated a comprehensive understanding of managing open source projects within an organization context. They've gained skills in effectively setting up strategies and managing team contributions to open source projects and launching open source projects. The holder of this badge has demonstrated skills in project lifecycle management, legal and governance considerations, community management, and the establishment of effective open source metrics strategies.
+Earners of the Contributing and Launching Open Source Projects within Organizations badge showcase expertise in managing open source projects. 
+They excel in strategy implementation and cross-team collaboration to manage employee contributions. 
 
 `open source management and strategy`; `open source governance`; `project management`; `open source project life cycle`
