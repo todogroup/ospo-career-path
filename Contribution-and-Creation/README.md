@@ -1,66 +1,119 @@
-# OSPO 101 Training Extension Module 6 & 7
-## Open Source Contribution and Creation
+# Contributing and Launching Open Source Projects within Organizations (LFC115)
 
-This course series is an extension of modules 6 and 7 from the OSPO 101 training course and is based on the [content from the outbound open source guide](https://github.com/todogroup/outbound-oss). Before taking this course, we encourage students to go through the introductory courses on using and creating open source projects:
+## Course Description 
 
-* [OSPO 101 - Module 6: Understanding Upstream Open Source Projects](https://github.com/todogroup/ospo-career-path/blob/main/OSPO-101/module6/README.md)
-* [OSPO 101 - Module 7: Open Source Creation](https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module7)
+Contribute and Launch Open Source Projects is a 3-module course series for workers within organizations managing open source that builds on the accumulated wisdom of the previous [Guide to Outbound Open Source Software](https://todogroup.org/guides/outbound-oss/). This course offers management and strategic insights into why and how organizations can efficiently contribute to open source projects.
 
-***
+Upon completion, learners will be equipped to establish and manage open source projects more effectively. They will gain a clear understanding of how to tailor these practices to their specific organizational context and teams, whether in a large or small organization.
 
-### Program Overview
+## Course Learning Outcomes
 
-For people at organizations looking to enhance their open source and/or IT strategy (people shaping the process), delving into outbound open source – which involves contributing to existing projects or initiating new ones – can be a transformative experience. 
-This training course is designed to guide open source managers and stakeholders within organizations through this journey.
+By the end of this course, you should be able to:
 
-This program is designed around three main thematic areas, which will be formatted into modules:
+* Understand and Communicate the Strategic Importance of Open Source Contribution: You will gain an in-depth understanding of why contributing to open source projects is strategically beneficial for organizations
+* Develop Project Management Skills in Open Source Context: You will be equipped with skills to effectively establish and manage open source projects in an organization context.
+* Enhance Team Collaboration in Open Source Projects: Participants will learn techniques to improve collaboration and coordination across teams/departments
+* Contribute and Launch Open Source Projects is a 3-module course series for workers within organizations managing open source that builds on the accumulated wisdom of the previous [Guide to Outbound Open Source Software](https://todogroup.org/guides/outbound-oss/).
 
-**MODULE 1 - COLLABORATION**
+## Course Audience
 
-* Transitioning from usage (also called consumption) to Contribution
-* Motivation for contribution
-  * Diving Deep into starting your organization's journey in contributing to open source projects
-  * Exploring various contribution models and procedures suitable for enterprises of all scales
-    
-**MODULE 2 - CREATION**
+This course series is designed to help executives and managers shaping the processes of open source within organizations to understand and articulate the basic concepts for contributing and launching open source projects within their organization.
 
-* Embarking on the organization's open source project releases
-  * An in-depth look at the  lifecycle of open source projects.
-  * Understanding the strategic advantages of launching open source initiatives for your organization.
-  * Navigating through legal intricacies, including Intellectual Property (IP) and licensing considerations.
-  * Mastering administrative and technical aspects, from repository management to selecting the right tools for your project.
+## Knowledge/Skills Prerequisites
+
+Before enrolling, students should have a basic understanding of software development and business concepts. We recommend students take the following courses in advance:
+
+* LFD102 - A Beginner’s Guide to Open Source Software Development
+* LFC202-207 - Open Source Management & Strategy
+* LFC193  - Introduction to Open Source License Compliance Management
+* LFC105 - Antitrust Laws and Open Source Software Project Management and Participation
+
+**Additional Industry-Vertical Courses**
+
+* LFD137 - Open Source Contribution in Finance: This course is recommended for students in the finance sector who are enrolled in the 'Contributing and Launching Open Source Projects within Organizations' Course
   
-**MODULE 3 - SUSTAINABILITY AND RESILIENCE**
+## Lab/System Prerequisites
 
-* Growing and nurturing and keeping an open source project resilient
-   * An introduction to open source software analytics and crucial open source metrics to gauge success and areas of improvement
+None
 
-By the end of this training course, participants will be well-equipped with the knowledge and tools necessary to contribute to open source projects and kickstart and release open source projects, ensuring they align with their organization's strategic objectives and foster a culture of collaboration and innovation.
+## What the Course Prepares For
 
-### Prerequisite Knowledge:
+This course prepares students working in organizations for advanced roles in IT management, focusing on the strategic and efficient contribution to open source projects. Learners are equipped with the skills necessary for roles such as Open Source Project Manager or Open Source Program Office Lead.
 
-* Familiarity with Open Source Software Development: Understanding of open source software development processes and terminology.
-* Awareness of Open Source Concepts: A general knowledge of open source in terms of legal, community, business, and ethical aspects.
-* Experience in Managing Open Source in Organizations: For example, familiarity with the operations of an Open Source Program Office (OSPO).
-* Preparatory Reading:
-  * [Starting an Open Source Project](thttps://todogroup.org/guides/starting/): A guide to initiating an open source project.
-  * [Building an Inclusive Community](https://todogroup.org/guides/diversity-inclusion/): A guide focused on fostering diversity and inclusion in open source communities.
-  * Read the guide Building Leadership (https://todogroup.org/guides/building-leadership/): A guide on developing leadership within open source projects.
+## Outline
+Chapter titles and learning objectives for each chapter
 
-### What I Will Learn In The Open Source Contribution and Creation Course
+* Introduction
+  * Understand the maturity levels in open source projects.
+  * Explore the motivations for contributing to open source, including:
+       * Building software faster and better.
+       * Exercising strategic influence.
+       * Attracting, growing, and retaining talent.
+       * Sustaining the open source ecosystem.
+* How to Contribute to OSS Projects
+  * Define your organization's open source goals and strategy.
+  * Establish guiding principles and processes for open source contribution, including:
+       * Understanding the guiding principles.
+       * Identifying who holds decision-making responsibilities.
+       * Outlining the general structure and scope of the contribution process.
+       * Process for obtaining company approval for contributions.
+  * Learn about various open source contribution models.
+* Starting Open Source Projects
+  * Analyze the motivation behind starting open source projects.
+  * Understand the project life cycle, including:
+     * Planning or Concept Phase.
+     * Active or Development Phase.
+     * Mature or Maintenance Phase.
+     * Obsolete or End of Life Phase.
+  * Delve into legal and governance considerations:
+     * Choosing the right license.
+     * Understanding the Contributor License Agreement (CLA) and Developer Certificate of Origin (DCO).
+     * Establishing project governance.
+     * Differentiating between various project levels.
+  * Master community management, including creating a Code of Conduct.
+* Technical Considerations, Tooling, and Best Practices
+  * Learn about user management in open source projects.
+  * Set up and maintain a repository.
+  * Provide appropriate license and copyright information.
+  * Manage CLA/DCO effectively.
+  * Implement credential scanning.
+  * Understand quality criteria and the CII Best Practices Badge Program.
+  * Learn about repository linting.
+* Building an Open Source Metrics Strategy
+  * Develop strategies for measuring and evaluating the success and impact of open source releases.
 
-By the end of this course, participants will be equipped with the knowledge and skills to:
+## Course Length 
 
-* Manage outbound open source projects within an organization effectively 
-* Understand legal and ethical implications when managing open source in an organization
-* Motivations, and best practices to move from usage to contribution in organizations
-* Integrate open source strategies within an organization.
+1. Introduction:
+* Estimated lecture time: 1 hour
+* Touchpoint exam: 10 minutes
+2. How to Contribute to OSS Projects:
+* Estimated lecture time: 3 hours
+* Touchpoint exam: 10 minutes
+3. Starting Open Source Projects:
+* Estimated lecture time:  3 hours
+* Touchpoint exam: 10 minutes
+4. Technical Considerations, Tooling, and Best Practices:
+* Estimated lecture time: 2 hours
+* Touchpoint exam: 10 minutes
+5. Building an Open Source Metrics Strategy:
+* Estimated lecture time: 1 hour
+* Touchpoint exam: 10 minutes
 
-Upon successful completion, participants will receive a certificate, demonstrating their proficiency in managing outbound open source initiatives within organizations.
+6. Final Exam
+* Estimated time: 15 minutes
 
-***
+TOTAL LECTURE TIME: 10 Hours
+TOTAL EXAM TIME: 1 Hour
 
-### Audience
 
-This course series is designed to help those open source stakeholders shaping the process regarding open source integration across the organization's work units and providing IT strategic advice, understand and articulate the basic concepts for building effective open source practices within their organization. It is also helpful for a leadership audience responsible for setting up effective
-program management of open source in their organization. Before enrolling, students should have a basic understanding of software development and business concepts
+## Course Author Bio and Picture
+
+TBD
+
+
+## Digital Badge Description, Skills and Tags
+
+Earners of the Contributing and Launching Open Source Projects within Organizations (LFC115*) course badge have demonstrated a comprehensive understanding of managing open source projects within an organization context. They've gained skills in effectively setting up strategies and managing team contributions to open source projects and launching open source projects. The holder of this badge has demonstrated skills in project lifecycle management, legal and governance considerations, community management, and the establishment of effective open source metrics strategies.
+
+`open source management and strategy`; `open source governance`; `project management`; `open source project life cycle`
