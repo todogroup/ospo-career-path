@@ -322,11 +322,11 @@ The open source approach has proven so effective for innovation that many leadin
 
 * Like the rest of the Internet, social media software platforms have emerged from and grown through open source software.
 
-* The arena of scientific computing and massively parallel computing are almost exclusively open source domains.
+* The area of scientific computing and massively parallel computing are almost exclusively open source domains.
 
-Many open source communities exhibit rapid evolution that can be harnessed through participation to speed your own innovation. The open source ethos of bottom-up meritocracy directs ownership and accountability back to development teams
+Many open source communities exhibit rapid evolution that can be harnessed through participation to speed your own innovation. The open source ethos of bottom-up meritocracy directs ownership and accountability back to development teams.
 
-One of the best ways to introduce a new software idea, test new capabilities and grow an active user base is through an open source community
+One of the best ways to introduce a new software idea, test new capabilities and grow an active user base is through an open source community.
 
 And finally, the innovation that open source enables is not just technical innovation.  The lack of contractual constraints in open source licensing allows for creative new uses, new distribution schemes, flexible and creative packaging and pricing approaches and other forms of business and market innovation.
 
@@ -354,9 +354,9 @@ As a recent [McKinsey & Co. report ](https://www.mckinsey.com/industries/technol
 
 ### Bridging Open Source and Open Standards
 
-There has been a growing trend in the last several years of both the standards world and the open source ecosystem attempting to find better ways of working together.  While there are sometimes challenges (primarily around the execution speed mismatch of the two groups), there are many good reasons to continue to advocate for a closer relationship between the two.
+In recent years, both standards organizations and the open source community have been looking for more effective ways to collaborate. Although they sometimes face challenges, mainly because they operate at different speeds, there are many compelling reasons to keep advocating for a closer partnership between them.
 
-There are some good examples of projects where this is or already has worked:
+There are some good examples of projects where collaboration is happening and already has presented positive results:
 
 * The Linux Foundation's JDF ([Joint Development Foundation](https://www.jointdevelopment.org/)) efforts - GraphQL among others.
 
@@ -368,3 +368,4 @@ Standards and open source move at different paces, and work on interoperability 
 
 Additionally, by supporting standards, the open source ecosystem gets the ability to interoperate even with closed source software, which provides businesses with more choices and more flexibility.
 
+In the other direction, standard writing comitees have the ability to validate thier drafts via open source projects to fastly iterate on viability or corner cases. For example, GCC and Clang projects frequently provide implementation of standard-draft new language features to provide quick feedback-loop to standard bodies defining those languages.
