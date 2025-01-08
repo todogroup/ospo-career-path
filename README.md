@@ -64,7 +64,7 @@ Technical Integration
 
 ## 🙋‍♀️ Contribute
 
-[OSPO Career Path Working Group](https://lists.todogroup.org/g/WG-ospo-career-path)is dedicated to build an OSPO Career Path composed of different modules on open source strategy, project governance, compliance, and community engagement from beginner to advanced.
+[OSPO Career Path Working Group](https://lists.todogroup.org/g/WG-ospo-career-path) is dedicated to build an OSPO Career Path composed of different modules on open source strategy, project governance, compliance, and community engagement from beginner to advanced.
 This team meets bi-monthly on Tuesdays (the invite link is sent via their mailing list) and is open to everyone willing to help build a training path for open source managers (those shaping the policies and processes) and open source contributors within an organization 
 (both code and non-code contributors).
 
