@@ -44,7 +44,7 @@ Enterprises often want to take advantage of the technological innovation provide
 
 **Open Core**
 
-This typically involves a capable core product which is free and open source. Around the core, a commercial entity provides closed source software that adds to or extends its capabilities. These add-ons are then sold as commercial software, and they can also be combined with the support model to provide training and technical support of the extensions.
+This typically involves a capable core product which is free and open source. Around the core, a commercial entity provides proprietary software that adds to or extends its capabilities. These add-ons are then sold as commercial software, and they can also be combined with the support model to provide training and technical support of the extensions.
 
 ### Comparing Open Source Business Models
 
@@ -68,7 +68,7 @@ If a technology company has in-house expertise and a reputation for contributing
 
 **Open Core**
 
-This business model can work very well, but it also can develop a poor reputation for an organization if the community feels that the closed source extensions provided on top of the open source code should rightfully be part of the open source core. This model requires a delicate balance of providing added value that large enterprises are willing to pay for while still allowing the free community version of a project to be useful to individuals, as well as small to medium businesses.
+This business model can work very well, but it also can develop a poor reputation for an organization if the community feels that the proprietary extensions provided on top of the open source code should rightfully be part of the open source core. This model requires a delicate balance of providing added value that large enterprises are willing to pay for while still allowing the free community version of a project to be useful to individuals, as well as small to medium businesses.
 
 # Section: Developing an Open Source Strategy
 
@@ -142,7 +142,7 @@ The most common starting point for organizations is as an open source software u
 
 - Establish an Open Source Review Board (OSRB) to serve as a clearinghouse for all Open Source activities
 
-- Create incremental investment in headcount and infrastructure in engineering, product management, and legal to manage a mix of closed source / open source software
+- Create incremental investment in headcount and infrastructure in engineering, product management, and legal to manage a mix of proprietary (may be closed source) / open source software
 
 **Participant**
 
