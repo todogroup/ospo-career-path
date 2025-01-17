@@ -52,15 +52,15 @@ In comparing these open source business models, it’s important to note that di
 
 **Consumption**
 
-When your business has differentiated intellectual property but needs to reduce cost and complexity, strategically consuming open source software and building your product or service on top of that open source base platform gives you access to shared innovation that you can leverage to build compelling products without having to build everything yourself.
+When your business has differentiated intellectual property but needs to reduce cost and complexity, strategically consuming open source software and building your product or service on top of that open source base platform gives you access to shared innovation that you can leverage to build compelling products without having to build, or maintain, everything yourself.
 
 **Licensing**
 
-Utilizing a dual-licensing strategy gives you the opportunity to get the value of consumption and shared input for a ‘community’ version of your product, while selling an ‘enterprise’ version of the product to realize revenue and continue to fund work on the ‘community’ version. It also gives you the ability to let customers ‘try before they buy’ and potentially grow their business to require access to your paid enterprise version.
+Utilizing a dual-licensing strategy gives you the opportunity to get the value of consumption and shared input for a ‘community’ version of your product, while selling an ‘enterprise’ version of the product to realize revenue and continue to fund work on the ‘community’ version. It also gives you the ability to let customers ‘try before they buy’ and potentially grow their business to require access to your paid enterprise version. Additionally, 'community' version also increase the population of users providing shorter feedback loops on development and enables bug-fixes and feature contributions to what generally is the most critical part of the project.
 
 **Hosting**
 
-Providing a hosted solution of an open source project/product allows companies that have built infrastructure to support code for their own benefit to offer that same software as a service for their customers. Similar to the licensing model, this allows organizations to derive revenue for the software, which in terms helps fund their hosting infrastructure and also allows them to continue development of the open source project.
+Providing a hosted solution of an open source project/product allows companies that have built infrastructure to support code for their own benefit to offer that same software as a service for their customers. Similar to the licensing model, this allows organizations to derive revenue for the software, which in terms helps fund their hosting infrastructure and also allows them to continue development of the open source project. It is not only the original creator of the project that can benefit from this model. Any company can start providing hosted open source products without contributing to the original product. However, if the hosting becomes a succesful business, most companies start contributing back in their own interested to expand and improve their investment. For example, amost any web hosting company will sell a preinstalled apache httpd server with php product, most will never contribute code, they will mostly help on raising awareness about the projects and hell their customers to keep their enviroments well configured and updated.
 
 **Support**
 
@@ -68,7 +68,7 @@ If a technology company has in-house expertise and a reputation for contributing
 
 **Open Core**
 
-This business model can work very well, but it also can develop a poor reputation for an organization if the community feels that the proprietary extensions provided on top of the open source code should rightfully be part of the open source core. This model requires a delicate balance of providing added value that large enterprises are willing to pay for while still allowing the free community version of a project to be useful to individuals, as well as small to medium businesses.
+This business model can work very well, but it also can develop a poor reputation for an organization if the community feels that the proprietary extensions provided on top of the open source code should rightfully be part of the open source core. This model requires a delicate balance of providing added value that large enterprises are willing to pay for while still allowing the free community version of a project to be useful to individuals, as well as small to medium businesses. It is important to notice, that in some cases, the proprietary part of the project will not be closed source, but the legal requirements to use it will be different.
 
 # Section: Developing an Open Source Strategy
 
