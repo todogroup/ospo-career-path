@@ -359,7 +359,7 @@ Elements of that are easily seen on [opensource.microsoft.com](https://opensourc
 
 GitHub is a very rich environment, where lots of interactions are possible. Microsoft, like a lot of companies, was finding it difficult to keep track of everything going on and understanding what was happening with its repos.
 
-> "We ended up engaging with the GHTorrent project. We did quite a bit of work with them, and we actually are now sponsoring the GHTorrent project so we pay for all their Azure resources, everything you can see at [GHTorrent.org](http://ghtorrent.org/)," he said.
+> "We ended up engaging with the GHTorrent project. We did quite a bit of work with them, and we actually are now sponsoring the GHTorrent project so we pay for all their Azure resources, everything you can see at [GHTorrent.org](https://github.com/ghtorrent)," he said.
 
 GHTorrent helps Microsoft understand what’s going on at GitHub but also internally in terms of its own projects. Even so, there are some things that GHTorrent was not set up to do, including work with private repositories and some of the more detailed data concerning teams where admin permissions are required.
 
