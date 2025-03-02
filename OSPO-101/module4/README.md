@@ -275,7 +275,7 @@ Communities are cyclical - eventually, you and/or your organization may need to 
 
 *   Identify a successor or someone to take over your code
 *   Introduce that successor to the rest of the community
-*   Inform the community as soon as possible so that they have time to plan for any changes they may need to make as a result of your exit.
+*   Inform the community as soon as possible so that they have time to plan for any changes they may need to make as a result of your exit
 
 Remember that even in exiting a community, your behavior reflects on you and/or your organization.
 
@@ -378,7 +378,7 @@ The whole process of continuous delivery and continuous deployment can be deline
 
 1. **Continuous Integration**
 
-Changes are to be merged into the main branch (“master”) as often as possible. **Automated builds** are run on as many variations of software and hardware as possible. Conflicts are resolved as soon as they arise. 
+Changes are to be merged into the main branch (“main”) as often as possible. **Automated builds** are run on as many variations of software and hardware as possible. Conflicts are resolved as soon as they arise. 
 
 2. **Continuous Testing/Delivery**
 
@@ -406,15 +406,15 @@ Obviously, nothing comes for free in software development, so it’s important t
 
 #### Costs
 
-*   Changes have to be merged very often, probably at least once a day, putting a possible strain on developers. 
-*   The repository must be monitored by **a continuous integration server**, which runs scripted automation tests every time contributions are made. Staff has to be allocated to do this. 
-*   Scripts and other tools have to be run to perform automated tests and report their results and take appropriate actions. It can be a lot of work to prepare this infrastructure. 
+*   Changes have to be merged very often, probably at least once a day, putting a possible strain on developers
+*   The repository must be monitored by **a continuous integration server**, which runs scripted automation tests every time contributions are made. Staff has to be allocated to do this
+*   Scripts and other tools have to be run to perform automated tests and report their results and take appropriate actions. It can be a lot of work to prepare this infrastructure
 
 #### Benefits
 
-*   Developers do not go down the wrong path and compound fixable mistakes, or get in each other’s way, which in the end saves valuable time. 
-*   The build steps are fully automated, all the work has been done up front instead of each time build testing needs to be done. 
-*   Regressions (bugs which break working products) may be minimized, which means that released software should have fewer bugs. 
+*   Developers do not go down the wrong path and compound fixable mistakes, or get in each other’s way, which in the end saves valuable time
+*   The build steps are fully automated, all the work has been done up front instead of each time build testing needs to be done
+*   Regressions (bugs which break working products) may be minimized, which means that released software should have fewer bugs
 
 Setting up a continuous integration pipeline is not trivial and can take quite a bit of experience and effort to get right. But “an ounce of prevention is worth a pound of cure.” There are many existing tools and services that can help make the work less daunting. 
 
@@ -465,8 +465,8 @@ In this section, we will provide information on how to apply open source princip
 
 By the end of this section, you should be able to:
 
-* Describe what Inner Source is and how it's useful for improving internal projects as well as external open source engagement.
-* Explain some practical steps that can be taken to implement Inner Source practices in your organization.
+* Describe what Inner Source is and how it's useful for improving internal projects as well as external open source engagement
+* Explain some practical steps that can be taken to implement Inner Source practices in your organization
 
 ## Lesson: Why Inner Source?
 
