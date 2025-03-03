@@ -448,7 +448,7 @@ The process includes the following steps:
 
 ![Initiating an Open Source Review](initiate-review.png)
 
-Anyone working with Open Source in the company should be able to initiate an Open Source Review, including Program or Product Managers, Engineers, and Legal team members
+Anyone working with Open Source in the company should be able to initiate an Open Source Review, including Program or Product Managers, Engineers, and Legal team members.
 
 _Note: The process often starts when new Open Source-based software is selected by engineering or outside vendors._
 
@@ -1203,16 +1203,16 @@ Although open source due diligence may seem like a lengthy process, it often can
 
 If you are the target, you can maintain proper open source compliance practices by ensuring your development and business processes include:
 
-- Identifying the origin and license of all internal and external software.
-- Tracking open source software within the development process (components and snippets).
-- Performing source code reviews for new or updated code entering the build.
-- Fulfilling license obligations when a product ships or when software is updated.
-- Offering open source compliance training to employees.
+- Identifying the origin and license of all internal and external software
+- Tracking open source software within the development process (components and snippets)
+- Performing source code reviews for new or updated code entering the build
+- Fulfilling license obligations when a product ships or when software is updated
+- Offering open source compliance training to employees
 
 If you are the acquirer, you should know what to look for and have the skills on-hand to address issues quickly:
 
-- Decide with the target company on the appropriate audit method to use, and which third party to engage for the audit.
-- Note that some don't have ability to do blind testing, some do not support the DIY, and others do not have the ability to discover code snippets.
+- Decide with the target company on the appropriate audit method to use, and which third party to engage for the audit
+- Note that some don't have ability to do blind testing, some do not support the DIY, and others do not have the ability to discover code snippets
 - If possible, get multiple bids for the audit and learn more about your audit service providers. This step is not just about the cost, but about having the precise output to help you address any concerns you may have. Make sure you have the internal expertise to compare each bid equally and that they include all audit parameters, such as:
   - Audit method, inputs and outputs
   - Primary contact persons at target and acquirer for speedy discussions of issues that arise
