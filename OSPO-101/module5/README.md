@@ -204,7 +204,7 @@ Below are a few popular sites that discuss the types of licenses and properties 
 
 [_Choose an Open Source License_](https://choosealicense.com/) is sponsored by GitHub. It walks you through the properties you must consider, helping you decide what license makes sense.
 
-License text sometimes gets treated as "too long, didn't read" - denoted TL;DR. [_tl;dr Legal_](https://tldrlegal.com/licenses/browse) is trying to clarify the legal text into standard properties. The website creators work with volunteer lawyers to classify and color code the properties associated with specific licenses to help you navigate easier and better understand the existing licenses.
+License text sometimes gets treated as "too long, didn't read" - denoted TL;DR. [_tl;dr Legal_](https://www.tldrlegal.com/browse) is trying to clarify the legal text into standard properties. The website creators work with volunteer lawyers to classify and color code the properties associated with specific licenses to help you navigate easier and better understand the existing licenses.
 
 - Blue - Rules you must follow.
 - Green - Rules you can follow.
@@ -1187,7 +1187,7 @@ It is not reasonable or feasible to be active in all of the open source projects
 
 **Measure Your Compliance Efforts**
 
-The easiest and most effective first step for organizations of all sizes is to engage with the OpenChain Project (mentioned earlier) and to obtain "OpenChain Conformant" status. This is done by filling out a series of questions either [online](https://certification.openchainproject.org/) or manually.
+The easiest and most effective first step for organizations of all sizes is to engage with the OpenChain Project (mentioned earlier) and to obtain "OpenChain Conformant" status. This is done by filling out a series of questions either [online](https://openchainproject.org/get-started) or manually.
 
 The questions used for OpenChain Conformance help to confirm that an organization has created processes or policies for open source software compliance. OpenChain is an industry standard, similar to ISO 9001. It is focused on the "big picture," with precise processes and policy implementations up to each individual organization.
 
