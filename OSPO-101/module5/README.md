@@ -204,7 +204,7 @@ Below are a few popular sites that discuss the types of licenses and properties 
 
 [_Choose an Open Source License_](https://choosealicense.com/) is sponsored by GitHub. It walks you through the properties you must consider, helping you decide what license makes sense.
 
-License text sometimes gets treated as "too long, didn't read" - denoted TL;DR. [_tl;dr Legal_](https://tldrlegal.com/licenses/browse) is trying to clarify the legal text into standard properties. The website creators work with volunteer lawyers to classify and color code the properties associated with specific licenses to help you navigate easier and better understand the existing licenses.
+License text sometimes gets treated as "too long, didn't read" - denoted TL;DR. [_tl;dr Legal_](https://www.tldrlegal.com/browse) is trying to clarify the legal text into standard properties. The website creators work with volunteer lawyers to classify and color code the properties associated with specific licenses to help you navigate easier and better understand the existing licenses.
 
 - Blue - Rules you must follow.
 - Green - Rules you can follow.
@@ -448,7 +448,7 @@ The process includes the following steps:
 
 ![Initiating an Open Source Review](initiate-review.png)
 
-Anyone working with Open Source in the company should be able to initiate an Open Source Review, including Program or Product Managers, Engineers, and Legal team members
+Anyone working with Open Source in the company should be able to initiate an Open Source Review, including Program or Product Managers, Engineers, and Legal team members.
 
 _Note: The process often starts when new Open Source-based software is selected by engineering or outside vendors._
 
@@ -1187,7 +1187,7 @@ It is not reasonable or feasible to be active in all of the open source projects
 
 **Measure Your Compliance Efforts**
 
-The easiest and most effective first step for organizations of all sizes is to engage with the OpenChain Project (mentioned earlier) and to obtain "OpenChain Conformant" status. This is done by filling out a series of questions either [online](https://certification.openchainproject.org/) or manually.
+The easiest and most effective first step for organizations of all sizes is to engage with the OpenChain Project (mentioned earlier) and to obtain "OpenChain Conformant" status. This is done by filling out a series of questions either [online](https://openchainproject.org/get-started) or manually.
 
 The questions used for OpenChain Conformance help to confirm that an organization has created processes or policies for open source software compliance. OpenChain is an industry standard, similar to ISO 9001. It is focused on the "big picture," with precise processes and policy implementations up to each individual organization.
 
@@ -1203,16 +1203,16 @@ Although open source due diligence may seem like a lengthy process, it often can
 
 If you are the target, you can maintain proper open source compliance practices by ensuring your development and business processes include:
 
-- Identifying the origin and license of all internal and external software.
-- Tracking open source software within the development process (components and snippets).
-- Performing source code reviews for new or updated code entering the build.
-- Fulfilling license obligations when a product ships or when software is updated.
-- Offering open source compliance training to employees.
+- Identifying the origin and license of all internal and external software
+- Tracking open source software within the development process (components and snippets)
+- Performing source code reviews for new or updated code entering the build
+- Fulfilling license obligations when a product ships or when software is updated
+- Offering open source compliance training to employees
 
 If you are the acquirer, you should know what to look for and have the skills on-hand to address issues quickly:
 
-- Decide with the target company on the appropriate audit method to use, and which third party to engage for the audit.
-- Note that some don't have ability to do blind testing, some do not support the DIY, and others do not have the ability to discover code snippets.
+- Decide with the target company on the appropriate audit method to use, and which third party to engage for the audit
+- Note that some don't have ability to do blind testing, some do not support the DIY, and others do not have the ability to discover code snippets
 - If possible, get multiple bids for the audit and learn more about your audit service providers. This step is not just about the cost, but about having the precise output to help you address any concerns you may have. Make sure you have the internal expertise to compare each bid equally and that they include all audit parameters, such as:
   - Audit method, inputs and outputs
   - Primary contact persons at target and acquirer for speedy discussions of issues that arise
