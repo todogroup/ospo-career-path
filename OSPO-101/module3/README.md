@@ -31,7 +31,7 @@ An open source program office’s main functions are to advance open source cons
 The responsibilities of a program office are varied. These include:
 
 * Clearly communicating the open source strategy within and outside the company
-* Owning and overseeing the execution of the strategy 
+* Owning and overseeing the execution of the strategy
 * Facilitating the effective use of open source in commercial products and services
 * Ensuring high-quality and frequent releases of code to open source communities
 * Engaging with developer communities and seeing that the company contributes back to other projects effectively
@@ -42,9 +42,8 @@ It’s important here to reiterate that not all OSPOs have all of these function
 
 One thing that should be stressed is that OSPOs do more than just work with developers - they have a host of non-development activities that they can assist with, as noted below:
 
-Credit: TODO Group OSPO Guides ([https://todogroup.org/guides/](https://todogroup.org/guides/))
-
 ![OSPO Structure](ospo-structure.png)
+Credit: TODO Group OSPO Guides ([https://todogroup.org/guides/](https://todogroup.org/guides/))
 
 ### The Value of an OSPO
 
@@ -52,7 +51,7 @@ A successful office can greatly benefit corporate open source use by establishin
 
 An open source program office brings substance and facts to the conversation when business units begin to consider open source in their plans so there is a full understanding of why it is being considered, what the consequences will be, and what is needed to reach its goals. By having specialists in open source help frame the conversation, stakeholders know where to start and what to think about as they weigh their decision.
 
-The program office also acts as a critical liaison between internal developers and the open source user communities to resolve and understand issues or requirements that arise. The program office can assist with legal issues, provide developer advocacy, and act as a voice for external users who are building on a company’s open source projects. The program office can also help relay that information to others inside the company, including the product management team, to further advance products in a way that is beneficial to the organization. 
+The program office also acts as a critical liaison between internal developers and the open source user communities to resolve and understand issues or requirements that arise. The program office can assist with legal issues, provide developer advocacy, and act as a voice for external users who are building on a company’s open source projects. The program office can also help relay that information to others inside the company, including the product management team, to further advance products in a way that is beneficial to the organization.
 
 # Building an Effective Open Source Program Office
 
@@ -74,17 +73,17 @@ By the end of this section, you should be able to:
 
 ### Where to Begin?
 
-Every company is different and will have different needs when it comes to starting an OSPO. The process can start from the top down, with buy-in from top management; or from the bottom up, where pockets of developers and open source enthusiasts have been using open source and want to see it formalized. 
+Every company is different and will have different needs when it comes to starting an OSPO. The process can start from the top down, with buy-in from top management; or from the bottom up, where pockets of developers and open source enthusiasts have been using open source and want to see it formalized.
 
-It can manifest itself as a desire to create guidance around legal issues and security, or it can start as a grassroots effort that matures and attracts the attention of corporate leaders. It can even start with a forward-thinking CEO or CTO who champions the cause to drive the company forward and add value by deepening its commitment to open source. 
+It can manifest itself as a desire to create guidance around legal issues and security, or it can start as a grassroots effort that matures and attracts the attention of corporate leaders. It can even start with a forward-thinking CEO or CTO who champions the cause to drive the company forward and add value by deepening its commitment to open source.
 
 This kind of consensus and executive support will be essential to gain traction and move the process of starting an OSPO forward. Where you start your open source program office journey will be unique to your organization.  However, we’ll cover some critical steps that you should be thinking about in the following pages.
 
 ### Find a Leader
 
-Regardless of how your planning starts, it’s important to find the right leader to help develop and then run the fledgling program office inside a company. The top candidate will have a detailed understanding about how open source works, along with some technical chops from working as a developer, contributor, or committer on existing open source projects. 
+Regardless of how your planning starts, it’s important to find the right leader to help develop and then run the fledgling program office inside a company. The top candidate will have a detailed understanding about how open source works, along with some technical chops from working as a developer, contributor, or committer on existing open source projects.
 
-They should have a broad understanding of your company’s business along with the business acumen and management skills to help inform strategy and plans across business units. And they need to be sociable so they can convey enthusiasm, knowledge, and information to others and help them understand how the open source initiative is going to transform, change, and improve things for the company. 
+They should have a broad understanding of your company’s business along with the business acumen and management skills to help inform strategy and plans across business units. And they need to be sociable so they can convey enthusiasm, knowledge, and information to others and help them understand how the open source initiative is going to transform, change, and improve things for the company.
 
 The head of the program office needs to be able to talk with people about the deep technology, but they don’t have to know the ins and outs of every technology at play, because their main job will be to help frame the detailed discussions that will happen among multiple stakeholders.
 
@@ -94,7 +93,7 @@ The budget, staffing, technology tools and systems needed by a new program offic
 
 An example of a well-defined open source program office is one that drives needed policy, processes and tools, while also operating with a mantra of eliminating friction where it is found, using tools to automate what can be streamlined, and delegating tasks which need to be accomplished. We’ll cover more specifics on how to set policies and processes in future sections.
 
-A program office must offer structured policies and processes but also remain flexible. When open source users and contributors need help, the office operates more like a consultancy, providing guidance while still allowing employees to make individual or group business decisions relating to their work. 
+A program office must offer structured policies and processes but also remain flexible. When open source users and contributors need help, the office operates more like a consultancy, providing guidance while still allowing employees to make individual or group business decisions relating to their work.
 
 ### Seek Feedback and Buy-in
 
@@ -134,9 +133,9 @@ Of course, the OSPO still has to be able to perform other needed roles in the co
 
 Another important element to consider when making the decision about where to place your OSPO in the organization revolves around whether you are planning a centralized vs. decentralized approach.
 
-In a smaller organization, having a centralized open source program office with all workflows for consumption, collaboration and creation coming to a central location might work well.  It ensures the greatest consistency of approach and compliance, but as an organization grows, it can also become unwieldy. 
+In a smaller organization, having a centralized open source program office with all workflows for consumption, collaboration and creation coming to a central location might work well.  It ensures the greatest consistency of approach and compliance, but as an organization grows, it can also become unwieldy.
 
-Centralized organizations sometimes also host the main developers who will contribute to upstream open source projects on behalf of the organization.  These developers often act as internal consultants for product teams who may lack the training and expertise to contribute to open source projects on their own.  
+Centralized organizations sometimes also host the main developers who will contribute to upstream open source projects on behalf of the organization.  These developers often act as internal consultants for product teams who may lack the training and expertise to contribute to open source projects on their own.
 
 Once your organization becomes large enough though, a decentralized approach generally works best, as you can focus on educating and providing consulting resources for developers and managers to make product-specific decisions about open source that are consistent with the overall organizational policies.  This approach also spreads the open source knowledge throughout your organization and helps foster a more open and collaborative culture, which is an important trait for working with the larger open source ecosystem.
 
@@ -164,7 +163,7 @@ Larger organizations should consider hiring or training a dedicated attorney to 
 
 The open source compliance team is a cross-disciplinary group consisting of various individuals tasked with the mission of ensuring open source license compliance. The core team, often called the Open Source Review Board (OSRB), consists of representatives from engineering and product teams, one or more legal counsel, and the compliance officer (who is often the open source program manager).
 
-The extended team consists of various individuals across multiple departments that contribute on an ongoing basis to the compliance efforts. These may include documentation, supply chain, corporate development, IT, localization and an Open Source Executive Committee (OSEC). However, unlike the core team, members of the extended team only work on compliance on a part-time basis, based on tasks they receive from the OSRB. 
+The extended team consists of various individuals across multiple departments that contribute on an ongoing basis to the compliance efforts. These may include documentation, supply chain, corporate development, IT, localization and an Open Source Executive Committee (OSEC). However, unlike the core team, members of the extended team only work on compliance on a part-time basis, based on tasks they receive from the OSRB.
 
 #### Developer Relations, Advocacy, and Evangelists
 
@@ -225,7 +224,7 @@ Due to that scrutiny, developers tend to structure things in better ways when wr
 
 ### Policies for Internal Consumption
 
-Other needed policies include rules about how and where your team finds trusted sources for open source software use and creation, policies about establishing code management and maintenance procedures, and formalizing community interaction for your projects. 
+Other needed policies include rules about how and where your team finds trusted sources for open source software use and creation, policies about establishing code management and maintenance procedures, and formalizing community interaction for your projects.
 
 An open source usage policy ensures that any software (proprietary, third-party, or open source) that makes its way into the product base has been audited, reviewed, and approved. It also ensures that your company has a plan to fulfill the license obligations resulting from using the various software components, before your products make it to customers.
 
@@ -354,13 +353,13 @@ Microsoft’s policies boil down into processes that then are tooled accordingly
 
 > "On the GitHub management side, we went the other direction, as there wasn’t an existing set of tooling to help manage an enterprise presence on GitHub," said McAffer. “So we ended up creating what’s now called the [open source portal](https://github.com/Microsoft/opensource-portal) , which is available on GitHub as open source.”
 
-Elements of that are easily seen on [opensource.microsoft.com](https://opensource.microsoft.com/) , but then there’s an internal side, too, where Microsoft employees manage repos and teams. 
+Elements of that are easily seen on [opensource.microsoft.com](https://opensource.microsoft.com/) , but then there’s an internal side, too, where Microsoft employees manage repos and teams.
 
 > "We’ve open sourced that and other companies are picking it up and using that internally for themselves, so it’s a bi-directional thing," McAffer explained.
 
 GitHub is a very rich environment, where lots of interactions are possible. Microsoft, like a lot of companies, was finding it difficult to keep track of everything going on and understanding what was happening with its repos.
 
-> "We ended up engaging with the GHTorrent project. We did quite a bit of work with them, and we actually are now sponsoring the GHTorrent project so we pay for all their Azure resources, everything you can see at [GHTorrent.org](http://ghtorrent.org/)," he said.
+> "We ended up engaging with the GHTorrent project. We did quite a bit of work with them, and we actually are now sponsoring the GHTorrent project so we pay for all their Azure resources, everything you can see at [GHTorrent.org](https://github.com/ghtorrent)," he said.
 
 GHTorrent helps Microsoft understand what’s going on at GitHub but also internally in terms of its own projects. Even so, there are some things that GHTorrent was not set up to do, including work with private repositories and some of the more detailed data concerning teams where admin permissions are required.
 
